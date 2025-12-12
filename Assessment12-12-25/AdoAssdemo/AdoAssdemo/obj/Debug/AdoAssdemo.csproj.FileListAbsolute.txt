@@ -1,0 +1,8 @@
+C:\Users\logeshwaranv\Desktop\Assessment12-12-25\AdoAssdemo\AdoAssdemo\bin\Debug\AdoAssdemo.exe.config
+C:\Users\logeshwaranv\Desktop\Assessment12-12-25\AdoAssdemo\AdoAssdemo\bin\Debug\AdoAssdemo.exe
+C:\Users\logeshwaranv\Desktop\Assessment12-12-25\AdoAssdemo\AdoAssdemo\bin\Debug\AdoAssdemo.pdb
+C:\Users\logeshwaranv\Desktop\Assessment12-12-25\AdoAssdemo\AdoAssdemo\obj\Debug\AdoAssdemo.csproj.AssemblyReference.cache
+C:\Users\logeshwaranv\Desktop\Assessment12-12-25\AdoAssdemo\AdoAssdemo\obj\Debug\AdoAssdemo.csproj.CoreCompileInputs.cache
+C:\Users\logeshwaranv\Desktop\Assessment12-12-25\AdoAssdemo\AdoAssdemo\obj\Debug\AdoAssdemo.exe
+C:\Users\logeshwaranv\Desktop\Assessment12-12-25\AdoAssdemo\AdoAssdemo\obj\Debug\AdoAssdemo.pdb
+C:\Users\logeshwaranv\Desktop\Assessment12-12-25\AdoAssdemo\AdoAssdemo\obj\Debug\AdoAssdemo.exe.config
