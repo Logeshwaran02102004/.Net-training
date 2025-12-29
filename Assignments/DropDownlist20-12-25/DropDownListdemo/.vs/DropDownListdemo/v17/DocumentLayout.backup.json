@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\DropDownlist20-12-25\\DropDownListdemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B841362-68C0-4D21-964E-8C47DD2BBF1F}|DropDownListdemo\\DropDownListdemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\assignments\\dropdownlist20-12-25\\dropdownlistdemo\\dropdownlistdemo\\validation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8B841362-68C0-4D21-964E-8C47DD2BBF1F}|DropDownListdemo\\DropDownListdemo.csproj|solutionrelative:dropdownlistdemo\\validation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B841362-68C0-4D21-964E-8C47DD2BBF1F}|DropDownListdemo\\DropDownListdemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\assignments\\dropdownlist20-12-25\\dropdownlistdemo\\dropdownlistdemo\\validation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B841362-68C0-4D21-964E-8C47DD2BBF1F}|DropDownListdemo\\DropDownListdemo.csproj|solutionrelative:dropdownlistdemo\\validation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B841362-68C0-4D21-964E-8C47DD2BBF1F}|DropDownListdemo\\DropDownListdemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\assignments\\dropdownlist20-12-25\\dropdownlistdemo\\dropdownlistdemo\\productdeatails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B841362-68C0-4D21-964E-8C47DD2BBF1F}|DropDownListdemo\\DropDownListdemo.csproj|solutionrelative:dropdownlistdemo\\productdeatails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B841362-68C0-4D21-964E-8C47DD2BBF1F}|DropDownListdemo\\DropDownListdemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\assignments\\dropdownlist20-12-25\\dropdownlistdemo\\dropdownlistdemo\\productdeatails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8B841362-68C0-4D21-964E-8C47DD2BBF1F}|DropDownListdemo\\DropDownListdemo.csproj|solutionrelative:dropdownlistdemo\\productdeatails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B841362-68C0-4D21-964E-8C47DD2BBF1F}|DropDownListdemo\\DropDownListdemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\assignments\\dropdownlist20-12-25\\dropdownlistdemo\\dropdownlistdemo\\productdeatails.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B841362-68C0-4D21-964E-8C47DD2BBF1F}|DropDownListdemo\\DropDownListdemo.csproj|solutionrelative:dropdownlistdemo\\productdeatails.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B841362-68C0-4D21-964E-8C47DD2BBF1F}|DropDownListdemo\\DropDownListdemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\assignments\\dropdownlist20-12-25\\dropdownlistdemo\\dropdownlistdemo\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B841362-68C0-4D21-964E-8C47DD2BBF1F}|DropDownListdemo\\DropDownListdemo.csproj|solutionrelative:dropdownlistdemo\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B841362-68C0-4D21-964E-8C47DD2BBF1F}|DropDownListdemo\\DropDownListdemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\assignments\\dropdownlist20-12-25\\dropdownlistdemo\\dropdownlistdemo\\validation.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B841362-68C0-4D21-964E-8C47DD2BBF1F}|DropDownListdemo\\DropDownListdemo.csproj|solutionrelative:dropdownlistdemo\\validation.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B841362-68C0-4D21-964E-8C47DD2BBF1F}|DropDownListdemo\\DropDownListdemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\assignments\\dropdownlist20-12-25\\dropdownlistdemo\\dropdownlistdemo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8B841362-68C0-4D21-964E-8C47DD2BBF1F}|DropDownListdemo\\DropDownListdemo.csproj|solutionrelative:dropdownlistdemo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDeatails.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\DropDownlist20-12-25\\DropDownListdemo\\DropDownListdemo\\ProductDeatails.aspx.designer.cs",
+              "RelativeDocumentMoniker": "DropDownListdemo\\ProductDeatails.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\DropDownlist20-12-25\\DropDownListdemo\\DropDownListdemo\\ProductDeatails.aspx.designer.cs",
+              "RelativeToolTip": "DropDownListdemo\\ProductDeatails.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:08:55.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validation.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\DropDownlist20-12-25\\DropDownListdemo\\DropDownListdemo\\Validation.aspx.cs",
+              "RelativeDocumentMoniker": "DropDownListdemo\\Validation.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\DropDownlist20-12-25\\DropDownListdemo\\DropDownListdemo\\Validation.aspx.cs*",
+              "RelativeToolTip": "DropDownListdemo\\Validation.aspx.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T10:39:09.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Validation.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\DropDownlist20-12-25\\DropDownListdemo\\DropDownListdemo\\Validation.aspx",
+              "RelativeDocumentMoniker": "DropDownListdemo\\Validation.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\DropDownlist20-12-25\\DropDownListdemo\\DropDownListdemo\\Validation.aspx",
+              "RelativeToolTip": "DropDownListdemo\\Validation.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-29T10:33:27.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDeatails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\DropDownlist20-12-25\\DropDownListdemo\\DropDownListdemo\\ProductDeatails.aspx.cs",
+              "RelativeDocumentMoniker": "DropDownListdemo\\ProductDeatails.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\DropDownlist20-12-25\\DropDownListdemo\\DropDownListdemo\\ProductDeatails.aspx.cs",
+              "RelativeToolTip": "DropDownListdemo\\ProductDeatails.aspx.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:44:55.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDeatails.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\DropDownlist20-12-25\\DropDownListdemo\\DropDownListdemo\\ProductDeatails.aspx",
+              "RelativeDocumentMoniker": "DropDownListdemo\\ProductDeatails.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\DropDownlist20-12-25\\DropDownListdemo\\DropDownListdemo\\ProductDeatails.aspx",
+              "RelativeToolTip": "DropDownListdemo\\ProductDeatails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-29T09:40:37.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\DropDownlist20-12-25\\DropDownListdemo\\DropDownListdemo\\Web.config",
+              "RelativeDocumentMoniker": "DropDownListdemo\\Web.config",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\DropDownlist20-12-25\\DropDownListdemo\\DropDownListdemo\\Web.config",
+              "RelativeToolTip": "DropDownListdemo\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-29T10:42:59.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Validation.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\DropDownlist20-12-25\\DropDownListdemo\\DropDownListdemo\\Validation.aspx.designer.cs",
+              "RelativeDocumentMoniker": "DropDownListdemo\\Validation.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\DropDownlist20-12-25\\DropDownListdemo\\DropDownListdemo\\Validation.aspx.designer.cs",
+              "RelativeToolTip": "DropDownListdemo\\Validation.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T10:43:09.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\DropDownlist20-12-25\\DropDownListdemo\\DropDownListdemo\\Global.asax.cs",
+              "RelativeDocumentMoniker": "DropDownListdemo\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\DropDownlist20-12-25\\DropDownListdemo\\DropDownListdemo\\Global.asax.cs",
+              "RelativeToolTip": "DropDownListdemo\\Global.asax.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T10:57:26.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
