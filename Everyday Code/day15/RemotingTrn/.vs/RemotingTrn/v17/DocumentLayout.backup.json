@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day15\\RemotingTrn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24313252-731F-49FD-B7C3-2E1589BFF2D5}|ClientApp\\ClientApp.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\day15\\remotingtrn\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24313252-731F-49FD-B7C3-2E1589BFF2D5}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C45E1-DE88-4711-8237-FA535DD3FCD8}|ServerApp\\ServerApp.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\day15\\remotingtrn\\serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C45E1-DE88-4711-8237-FA535DD3FCD8}|ServerApp\\ServerApp.csproj|solutionrelative:serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7D70-6608-483C-820E-2A4C93E8C545}|RemotingTrn\\RemotingTrn.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\day15\\remotingtrn\\remotingtrn\\remotingtrn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1F7D70-6608-483C-820E-2A4C93E8C545}|RemotingTrn\\RemotingTrn.csproj|solutionrelative:remotingtrn\\remotingtrn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6296DAF4-6A5E-42F6-8475-8BABB1E774BB}|RemotingLib\\RemotingLib.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\day15\\remotingtrn\\remotinglib\\remotinglib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6296DAF4-6A5E-42F6-8475-8BABB1E774BB}|RemotingLib\\RemotingLib.csproj|solutionrelative:remotinglib\\remotinglib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day15\\RemotingTrn\\ClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Program.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day15\\RemotingTrn\\ClientApp\\Program.cs",
+              "RelativeToolTip": "ClientApp\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:48:38.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day15\\RemotingTrn\\ServerApp\\Program.cs",
+              "RelativeDocumentMoniker": "ServerApp\\Program.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day15\\RemotingTrn\\ServerApp\\Program.cs",
+              "RelativeToolTip": "ServerApp\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAtwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:47:57.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RemotingLib.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day15\\RemotingTrn\\RemotingLib\\RemotingLib.cs",
+              "RelativeDocumentMoniker": "RemotingLib\\RemotingLib.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day15\\RemotingTrn\\RemotingLib\\RemotingLib.cs",
+              "RelativeToolTip": "RemotingLib\\RemotingLib.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:47:11.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RemotingTrn.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day15\\RemotingTrn\\RemotingTrn\\RemotingTrn.cs",
+              "RelativeDocumentMoniker": "RemotingTrn\\RemotingTrn.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day15\\RemotingTrn\\RemotingTrn\\RemotingTrn.cs",
+              "RelativeToolTip": "RemotingTrn\\RemotingTrn.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAvwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:45:52.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

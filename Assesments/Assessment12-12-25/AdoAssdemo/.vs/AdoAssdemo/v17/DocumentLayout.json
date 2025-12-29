@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\Assessment12-12-25\\AdoAssdemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9792FA27-2B5E-40C6-80E5-4083DA356902}|AdoAssdemo\\AdoAssdemo.csproj|c:\\users\\logeshwaranv\\desktop\\assessment12-12-25\\adoassdemo\\adoassdemo\\disconnected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9792FA27-2B5E-40C6-80E5-4083DA356902}|AdoAssdemo\\AdoAssdemo.csproj|solutionrelative:adoassdemo\\disconnected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9792FA27-2B5E-40C6-80E5-4083DA356902}|AdoAssdemo\\AdoAssdemo.csproj|c:\\users\\logeshwaranv\\desktop\\assessment12-12-25\\adoassdemo\\adoassdemo\\connected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9792FA27-2B5E-40C6-80E5-4083DA356902}|AdoAssdemo\\AdoAssdemo.csproj|solutionrelative:adoassdemo\\connected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9792FA27-2B5E-40C6-80E5-4083DA356902}|AdoAssdemo\\AdoAssdemo.csproj|c:\\users\\logeshwaranv\\desktop\\assessment12-12-25\\adoassdemo\\adoassdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9792FA27-2B5E-40C6-80E5-4083DA356902}|AdoAssdemo\\AdoAssdemo.csproj|solutionrelative:adoassdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Disconnected.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Assessment12-12-25\\AdoAssdemo\\AdoAssdemo\\Disconnected.cs",
+              "RelativeDocumentMoniker": "AdoAssdemo\\Disconnected.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Assessment12-12-25\\AdoAssdemo\\AdoAssdemo\\Disconnected.cs",
+              "RelativeToolTip": "AdoAssdemo\\Disconnected.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAqwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T10:36:37.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Connected.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Assessment12-12-25\\AdoAssdemo\\AdoAssdemo\\Connected.cs",
+              "RelativeDocumentMoniker": "AdoAssdemo\\Connected.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Assessment12-12-25\\AdoAssdemo\\AdoAssdemo\\Connected.cs",
+              "RelativeToolTip": "AdoAssdemo\\Connected.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAiwJUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T09:41:12.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Assessment12-12-25\\AdoAssdemo\\AdoAssdemo\\Program.cs",
+              "RelativeDocumentMoniker": "AdoAssdemo\\Program.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Assessment12-12-25\\AdoAssdemo\\AdoAssdemo\\Program.cs",
+              "RelativeToolTip": "AdoAssdemo\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wBMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T09:37:37.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

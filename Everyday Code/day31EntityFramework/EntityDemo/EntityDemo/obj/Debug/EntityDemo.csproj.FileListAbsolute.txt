@@ -1,0 +1,13 @@
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day31EntityFramework\EntityDemo\EntityDemo\bin\Debug\EntityDemo.exe.config
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day31EntityFramework\EntityDemo\EntityDemo\bin\Debug\EntityDemo.exe
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day31EntityFramework\EntityDemo\EntityDemo\bin\Debug\EntityDemo.pdb
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day31EntityFramework\EntityDemo\EntityDemo\bin\Debug\EntityFramework.dll
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day31EntityFramework\EntityDemo\EntityDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day31EntityFramework\EntityDemo\EntityDemo\bin\Debug\EntityFramework.xml
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day31EntityFramework\EntityDemo\EntityDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day31EntityFramework\EntityDemo\EntityDemo\obj\Debug\EntityDemo.csproj.AssemblyReference.cache
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day31EntityFramework\EntityDemo\EntityDemo\obj\Debug\EntityDemo.csproj.CoreCompileInputs.cache
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day31EntityFramework\EntityDemo\EntityDemo\obj\Debug\EntityDemo.csproj.Up2Date
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day31EntityFramework\EntityDemo\EntityDemo\obj\Debug\EntityDemo.exe
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day31EntityFramework\EntityDemo\EntityDemo\obj\Debug\EntityDemo.pdb
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day31EntityFramework\EntityDemo\EntityDemo\obj\Debug\EntityDemo.exe.config

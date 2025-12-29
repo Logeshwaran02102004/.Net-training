@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Document</title>
+    <script src="jquery.js"></script>
+    <style>
+        div {
+            border: 1px solid #2c2222;
+            padding: 10px;
+            width: 50px;
+            margin: 10px ;
+            align-items: center;
+            background-color: aqua;
+        }
+    </style>
+</head>
+<body>
+ 
+    <div id="div1">
+        <p>Logesh</p>
+    </div>
+ 
+    <div id="div2">
+        <p>Waseef</p>
+    </div>
+ 
+    <button id="button" >To Copy Content</button>
+ 
+    <script>
+        $("#button").click(function () {
+            var content = $("#div1").html();
+            $("#div2").html(content);
+        });
+    </script>
+ 
+</body>
+</html>
+ 
+ 

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Simple Login</title>
+    <script src="jquery.js"></script>
+ 
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+        }
+ 
+        input {
+            display: block;
+            margin: 10px 0;
+            padding: 5px;
+        }
+ 
+        #message {
+            margin-top: 10px;
+        }
+      
+        
+    </style>
+</head>
+<body>
+ <div id="sty">
+    <h2>Login</h2>
+    <input type="text" id="username" placeholder="Username">
+    <input type="password" id="password" placeholder="Password">
+    <input type="button" id="login" value="Login">
+</div>
+    <div id="message"></div>    
+ 
+    <script>
+        $(document).ready(function() {
+            $("#login").click(function() {
+                var username = $("#username").val();
+                var password = $("#password").val();
+                if(username === "" || password === "") {
+                    $("#message").html("Please enter both username and password");
+                } else if(username === "Logesh" && password === "9894") {
+                    $("#message").css({"color" : "green"}).html("Login Successful!");
+                } else {
+                    $("#message").css({"color" : "red"}).html("Invalid username or password");
+                }
+            });
+        });
+    </script>
+ 
+</body>
+</html>

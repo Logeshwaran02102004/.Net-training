@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jQuery Element Counter</title>
+    <script src="jquery.js"></script>
+</head>
+<style>
+        body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 500px;
+        flex-direction: column;
+        }
+</style>
+<body>
+ 
+    <div>
+        <h1>Logesh</h1>
+        <p>the para 1 inside div</p>
+    </div>
+ 
+    <div>
+        <h1>Logeshwaran</h1>
+        <p>Para 2 inside div</p>
+        <p>Para 3 inside div</p>
+    </div>
+ 
+    <h1>This is Logesh outside div</h1>
+    <p>the para 4 outside div</p>
+ 
+    <script>
+        $(document).ready(function() {
+            var m = $('h1').length;
+            var n = $('div').length;
+            var o = $('p').length;
+            $('body').append('<p>The Total Number of H1 elements Are: ' + m + '</p>');
+            $('body').append('<p>The Total Number of Div elements Are: ' + n + '</p>');
+            $('body').append('<p>The Number of Paragraphs Are: ' + o + '</p>');
+        });
+    </script>
+</body>
+</html>
+ 

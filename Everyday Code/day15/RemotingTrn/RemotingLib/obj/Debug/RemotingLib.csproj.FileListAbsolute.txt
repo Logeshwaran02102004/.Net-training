@@ -1,0 +1,9 @@
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day15\RemotingTrn\RemotingLib\obj\Debug\RemotingLib.csproj.AssemblyReference.cache
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day15\RemotingTrn\RemotingLib\obj\Debug\RemotingLib.csproj.CoreCompileInputs.cache
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day15\RemotingTrn\RemotingLib\bin\Debug\RemotingLib.dll
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day15\RemotingTrn\RemotingLib\bin\Debug\RemotingLib.pdb
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day15\RemotingTrn\RemotingLib\bin\Debug\RemotingTrn.dll
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day15\RemotingTrn\RemotingLib\bin\Debug\RemotingTrn.pdb
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day15\RemotingTrn\RemotingLib\obj\Debug\Remoting.F9DF2369.Up2Date
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day15\RemotingTrn\RemotingLib\obj\Debug\RemotingLib.dll
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day15\RemotingTrn\RemotingLib\obj\Debug\RemotingLib.pdb

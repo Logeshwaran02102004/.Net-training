@@ -1,0 +1,8 @@
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day9\day9training\day9training\bin\Debug\day9training.exe.config
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day9\day9training\day9training\bin\Debug\day9training.exe
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day9\day9training\day9training\bin\Debug\day9training.pdb
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day9\day9training\day9training\obj\Debug\day9training.csproj.AssemblyReference.cache
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day9\day9training\day9training\obj\Debug\day9training.csproj.CoreCompileInputs.cache
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day9\day9training\day9training\obj\Debug\day9training.exe
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day9\day9training\day9training\obj\Debug\day9training.pdb
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day9\day9training\day9training\obj\Debug\day9training.exe.config

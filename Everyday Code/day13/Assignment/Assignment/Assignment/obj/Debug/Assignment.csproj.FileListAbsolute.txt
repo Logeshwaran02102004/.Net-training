@@ -1,0 +1,8 @@
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day13\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day13\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day13\Assignment\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day13\Assignment\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day13\Assignment\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day13\Assignment\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day13\Assignment\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day13\Assignment\Assignment\Assignment\obj\Debug\Assignment.exe.config

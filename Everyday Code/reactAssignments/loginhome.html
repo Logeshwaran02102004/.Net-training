@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script>
+    function validate(){
+        var a = document.getElementById("m").value;
+        var b = document.getElementById("n").value;
+ 
+        if(a == "admin" && b == "india"){
+            window.location = "home.html";
+            alert("Login Successful ....click ok")
+        }
+        else{
+            document.write("Incorrect Password");
+            alert("Incorrect Password or username");
+        }
+    }
+</script>
+<body>
+    <h2>Welcome to Login Page</h2>
+    <p>Enter Username</p>
+    <input type="text" id="m">
+    <br><br>
+    <p>Enter Password</p>
+    <input type="password" id="n">
+    <br><br>
+    <input type="button" value="Validate" onclick="validate()">
+</body>
+</html>

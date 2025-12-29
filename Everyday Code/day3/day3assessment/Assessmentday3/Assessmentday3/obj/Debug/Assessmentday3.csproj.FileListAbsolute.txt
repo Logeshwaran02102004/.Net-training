@@ -1,0 +1,8 @@
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day3\day3assessment\Assessmentday3\Assessmentday3\bin\Debug\Assessmentday3.exe.config
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day3\day3assessment\Assessmentday3\Assessmentday3\bin\Debug\Assessmentday3.exe
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day3\day3assessment\Assessmentday3\Assessmentday3\bin\Debug\Assessmentday3.pdb
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day3\day3assessment\Assessmentday3\Assessmentday3\obj\Debug\Assessmentday3.csproj.AssemblyReference.cache
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day3\day3assessment\Assessmentday3\Assessmentday3\obj\Debug\Assessmentday3.csproj.CoreCompileInputs.cache
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day3\day3assessment\Assessmentday3\Assessmentday3\obj\Debug\Assessmentday3.exe
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day3\day3assessment\Assessmentday3\Assessmentday3\obj\Debug\Assessmentday3.pdb
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day3\day3assessment\Assessmentday3\Assessmentday3\obj\Debug\Assessmentday3.exe.config

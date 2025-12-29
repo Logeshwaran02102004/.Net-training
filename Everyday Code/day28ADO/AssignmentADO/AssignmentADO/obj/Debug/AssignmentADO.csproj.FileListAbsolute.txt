@@ -1,0 +1,8 @@
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day28ADO\AssignmentADO\AssignmentADO\bin\Debug\AssignmentADO.exe.config
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day28ADO\AssignmentADO\AssignmentADO\bin\Debug\AssignmentADO.exe
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day28ADO\AssignmentADO\AssignmentADO\bin\Debug\AssignmentADO.pdb
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day28ADO\AssignmentADO\AssignmentADO\obj\Debug\AssignmentADO.csproj.AssemblyReference.cache
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day28ADO\AssignmentADO\AssignmentADO\obj\Debug\AssignmentADO.csproj.CoreCompileInputs.cache
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day28ADO\AssignmentADO\AssignmentADO\obj\Debug\AssignmentADO.exe
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day28ADO\AssignmentADO\AssignmentADO\obj\Debug\AssignmentADO.pdb
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day28ADO\AssignmentADO\AssignmentADO\obj\Debug\AssignmentADO.exe.config

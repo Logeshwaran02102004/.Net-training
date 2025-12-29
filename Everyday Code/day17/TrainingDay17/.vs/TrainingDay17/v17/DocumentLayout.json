@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\TrainingDay17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EDDD6C-26B2-4201-AC27-CA03968E3D9E}|TrainingDay17\\TrainingDay17.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\day17\\trainingday17\\trainingday17\\adapterpatterncode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1EDDD6C-26B2-4201-AC27-CA03968E3D9E}|TrainingDay17\\TrainingDay17.csproj|solutionrelative:trainingday17\\adapterpatterncode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EDDD6C-26B2-4201-AC27-CA03968E3D9E}|TrainingDay17\\TrainingDay17.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\day17\\trainingday17\\trainingday17\\factorypatterncode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1EDDD6C-26B2-4201-AC27-CA03968E3D9E}|TrainingDay17\\TrainingDay17.csproj|solutionrelative:trainingday17\\factorypatterncode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EDDD6C-26B2-4201-AC27-CA03968E3D9E}|TrainingDay17\\TrainingDay17.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\day17\\trainingday17\\trainingday17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1EDDD6C-26B2-4201-AC27-CA03968E3D9E}|TrainingDay17\\TrainingDay17.csproj|solutionrelative:trainingday17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EDDD6C-26B2-4201-AC27-CA03968E3D9E}|TrainingDay17\\TrainingDay17.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\day17\\trainingday17\\trainingday17\\unityioccontainercode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1EDDD6C-26B2-4201-AC27-CA03968E3D9E}|TrainingDay17\\TrainingDay17.csproj|solutionrelative:trainingday17\\unityioccontainercode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EDDD6C-26B2-4201-AC27-CA03968E3D9E}|TrainingDay17\\TrainingDay17.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\day17\\trainingday17\\trainingday17\\prototypepatterncode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1EDDD6C-26B2-4201-AC27-CA03968E3D9E}|TrainingDay17\\TrainingDay17.csproj|solutionrelative:trainingday17\\prototypepatterncode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EDDD6C-26B2-4201-AC27-CA03968E3D9E}|TrainingDay17\\TrainingDay17.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\day17\\trainingday17\\trainingday17\\singletonpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1EDDD6C-26B2-4201-AC27-CA03968E3D9E}|TrainingDay17\\TrainingDay17.csproj|solutionrelative:trainingday17\\singletonpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrototypePatterncode.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\TrainingDay17\\TrainingDay17\\PrototypePatterncode.cs",
+              "RelativeDocumentMoniker": "TrainingDay17\\PrototypePatterncode.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\TrainingDay17\\TrainingDay17\\PrototypePatterncode.cs",
+              "RelativeToolTip": "TrainingDay17\\PrototypePatterncode.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T09:58:11.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Unityioccontainercode.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\TrainingDay17\\TrainingDay17\\Unityioccontainercode.cs",
+              "RelativeDocumentMoniker": "TrainingDay17\\Unityioccontainercode.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\TrainingDay17\\TrainingDay17\\Unityioccontainercode.cs",
+              "RelativeToolTip": "TrainingDay17\\Unityioccontainercode.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T09:57:24.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\TrainingDay17\\TrainingDay17\\Program.cs",
+              "RelativeDocumentMoniker": "TrainingDay17\\Program.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\TrainingDay17\\TrainingDay17\\Program.cs",
+              "RelativeToolTip": "TrainingDay17\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:51:04.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FactoryPatternCode.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\TrainingDay17\\TrainingDay17\\FactoryPatternCode.cs",
+              "RelativeDocumentMoniker": "TrainingDay17\\FactoryPatternCode.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\TrainingDay17\\TrainingDay17\\FactoryPatternCode.cs",
+              "RelativeToolTip": "TrainingDay17\\FactoryPatternCode.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA2wDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T09:54:17.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adapterpatterncode.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\TrainingDay17\\TrainingDay17\\Adapterpatterncode.cs",
+              "RelativeDocumentMoniker": "TrainingDay17\\Adapterpatterncode.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\TrainingDay17\\TrainingDay17\\Adapterpatterncode.cs",
+              "RelativeToolTip": "TrainingDay17\\Adapterpatterncode.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T09:58:49.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SingletonPattern.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\TrainingDay17\\TrainingDay17\\SingletonPattern.cs",
+              "RelativeDocumentMoniker": "TrainingDay17\\SingletonPattern.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\TrainingDay17\\TrainingDay17\\SingletonPattern.cs",
+              "RelativeToolTip": "TrainingDay17\\SingletonPattern.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vwgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T09:17:50.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

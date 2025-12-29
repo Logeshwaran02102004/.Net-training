@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day11trainning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC29A39-B84D-4CEA-8D50-2EE8857B7FD1}|Day11trainning\\Day11trainning.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\day10\\day11trainning\\day11trainning\\delegatemethoddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC29A39-B84D-4CEA-8D50-2EE8857B7FD1}|Day11trainning\\Day11trainning.csproj|solutionrelative:day11trainning\\delegatemethoddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC29A39-B84D-4CEA-8D50-2EE8857B7FD1}|Day11trainning\\Day11trainning.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\day10\\day11trainning\\day11trainning\\actiondelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC29A39-B84D-4CEA-8D50-2EE8857B7FD1}|Day11trainning\\Day11trainning.csproj|solutionrelative:day11trainning\\actiondelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC29A39-B84D-4CEA-8D50-2EE8857B7FD1}|Day11trainning\\Day11trainning.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\day10\\day11trainning\\day11trainning\\icomparerdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC29A39-B84D-4CEA-8D50-2EE8857B7FD1}|Day11trainning\\Day11trainning.csproj|solutionrelative:day11trainning\\icomparerdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC29A39-B84D-4CEA-8D50-2EE8857B7FD1}|Day11trainning\\Day11trainning.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\day10\\day11trainning\\day11trainning\\icomparable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC29A39-B84D-4CEA-8D50-2EE8857B7FD1}|Day11trainning\\Day11trainning.csproj|solutionrelative:day11trainning\\icomparable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC29A39-B84D-4CEA-8D50-2EE8857B7FD1}|Day11trainning\\Day11trainning.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\day10\\day11trainning\\day11trainning\\sortedlistdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC29A39-B84D-4CEA-8D50-2EE8857B7FD1}|Day11trainning\\Day11trainning.csproj|solutionrelative:day11trainning\\sortedlistdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC29A39-B84D-4CEA-8D50-2EE8857B7FD1}|Day11trainning\\Day11trainning.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\day10\\day11trainning\\day11trainning\\queuedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC29A39-B84D-4CEA-8D50-2EE8857B7FD1}|Day11trainning\\Day11trainning.csproj|solutionrelative:day11trainning\\queuedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC29A39-B84D-4CEA-8D50-2EE8857B7FD1}|Day11trainning\\Day11trainning.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\day10\\day11trainning\\day11trainning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC29A39-B84D-4CEA-8D50-2EE8857B7FD1}|Day11trainning\\Day11trainning.csproj|solutionrelative:day11trainning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Actiondelegate.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day11trainning\\Day11trainning\\Actiondelegate.cs",
+              "RelativeDocumentMoniker": "Day11trainning\\Actiondelegate.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day11trainning\\Day11trainning\\Actiondelegate.cs",
+              "RelativeToolTip": "Day11trainning\\Actiondelegate.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwCQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:35:12.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DelegatemethodDemo.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day11trainning\\Day11trainning\\DelegatemethodDemo.cs",
+              "RelativeDocumentMoniker": "Day11trainning\\DelegatemethodDemo.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day11trainning\\Day11trainning\\DelegatemethodDemo.cs",
+              "RelativeToolTip": "Day11trainning\\DelegatemethodDemo.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwDQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:32:36.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Icomparerdemo.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day11trainning\\Day11trainning\\Icomparerdemo.cs",
+              "RelativeDocumentMoniker": "Day11trainning\\Icomparerdemo.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day11trainning\\Day11trainning\\Icomparerdemo.cs",
+              "RelativeToolTip": "Day11trainning\\Icomparerdemo.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwD8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T07:38:29.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Icomparable.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day11trainning\\Day11trainning\\Icomparable.cs",
+              "RelativeDocumentMoniker": "Day11trainning\\Icomparable.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day11trainning\\Day11trainning\\Icomparable.cs",
+              "RelativeToolTip": "Day11trainning\\Icomparable.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wD4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T05:59:41.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sortedlistdemo.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day11trainning\\Day11trainning\\Sortedlistdemo.cs",
+              "RelativeDocumentMoniker": "Day11trainning\\Sortedlistdemo.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day11trainning\\Day11trainning\\Sortedlistdemo.cs",
+              "RelativeToolTip": "Day11trainning\\Sortedlistdemo.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAIwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:47:47.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Queuedemo.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day11trainning\\Day11trainning\\Queuedemo.cs",
+              "RelativeDocumentMoniker": "Day11trainning\\Queuedemo.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day11trainning\\Day11trainning\\Queuedemo.cs",
+              "RelativeToolTip": "Day11trainning\\Queuedemo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:21:35.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day11trainning\\Day11trainning\\Program.cs",
+              "RelativeDocumentMoniker": "Day11trainning\\Program.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day11trainning\\Day11trainning\\Program.cs",
+              "RelativeToolTip": "Day11trainning\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAywCMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:15:04.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

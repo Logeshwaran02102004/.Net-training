@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day13\\Features\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{531FFA06-497B-46C1-A620-C3F5F36C6F0B}|Features\\Features.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\day13\\features\\features\\threaddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FFA06-497B-46C1-A620-C3F5F36C6F0B}|Features\\Features.csproj|solutionrelative:features\\threaddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FFA06-497B-46C1-A620-C3F5F36C6F0B}|Features\\Features.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\day13\\features\\features\\internalfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FFA06-497B-46C1-A620-C3F5F36C6F0B}|Features\\Features.csproj|solutionrelative:features\\internalfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531FFA06-497B-46C1-A620-C3F5F36C6F0B}|Features\\Features.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\day13\\features\\features\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531FFA06-497B-46C1-A620-C3F5F36C6F0B}|Features\\Features.csproj|solutionrelative:features\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Internalfeatures.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day13\\Features\\Features\\Internalfeatures.cs",
+              "RelativeDocumentMoniker": "Features\\Internalfeatures.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day13\\Features\\Features\\Internalfeatures.cs",
+              "RelativeToolTip": "Features\\Internalfeatures.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAwwJUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T12:40:43.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Threaddemo.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day13\\Features\\Features\\Threaddemo.cs",
+              "RelativeDocumentMoniker": "Features\\Threaddemo.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day13\\Features\\Features\\Threaddemo.cs",
+              "RelativeToolTip": "Features\\Threaddemo.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T12:19:50.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day13\\Features\\Features\\Program.cs",
+              "RelativeDocumentMoniker": "Features\\Program.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day13\\Features\\Features\\Program.cs",
+              "RelativeToolTip": "Features\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:49:01.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

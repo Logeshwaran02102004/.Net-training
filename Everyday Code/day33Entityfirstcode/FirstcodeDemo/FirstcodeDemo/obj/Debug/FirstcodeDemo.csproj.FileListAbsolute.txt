@@ -1,0 +1,15 @@
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day33Entityfirstcode\FirstcodeDemo\FirstcodeDemo\bin\Debug\FirstcodeDemo.exe.config
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day33Entityfirstcode\FirstcodeDemo\FirstcodeDemo\bin\Debug\FirstcodeDemo.exe
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day33Entityfirstcode\FirstcodeDemo\FirstcodeDemo\bin\Debug\FirstcodeDemo.pdb
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day33Entityfirstcode\FirstcodeDemo\FirstcodeDemo\bin\Debug\EntityFramework.dll
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day33Entityfirstcode\FirstcodeDemo\FirstcodeDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day33Entityfirstcode\FirstcodeDemo\FirstcodeDemo\bin\Debug\EntityFramework.xml
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day33Entityfirstcode\FirstcodeDemo\FirstcodeDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day33Entityfirstcode\FirstcodeDemo\FirstcodeDemo\obj\Debug\FirstcodeDemo.csproj.AssemblyReference.cache
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day33Entityfirstcode\FirstcodeDemo\FirstcodeDemo\obj\Debug\FirstcodeDemo.csproj.CoreCompileInputs.cache
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day33Entityfirstcode\FirstcodeDemo\FirstcodeDemo\obj\Debug\Firstcod.8D192256.Up2Date
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day33Entityfirstcode\FirstcodeDemo\FirstcodeDemo\obj\Debug\FirstcodeDemo.exe
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day33Entityfirstcode\FirstcodeDemo\FirstcodeDemo\obj\Debug\FirstcodeDemo.pdb
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day33Entityfirstcode\FirstcodeDemo\FirstcodeDemo\obj\Debug\FirstcodeDemo.exe.config
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day33Entityfirstcode\FirstcodeDemo\FirstcodeDemo\obj\Debug\FirstcodeDemo.Migrations.InitialCreate.resources
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day33Entityfirstcode\FirstcodeDemo\FirstcodeDemo\obj\Debug\FirstcodeDemo.csproj.GenerateResource.cache

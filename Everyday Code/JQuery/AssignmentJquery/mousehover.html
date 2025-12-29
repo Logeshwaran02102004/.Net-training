@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script src="jquery.js"></script>
+    <style>
+        .box {
+            width: 400px;
+            height: 200px;
+            border: 2px solid #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;     
+            height: 100px;
+        }
+        body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 500px;
+        }
+    </style>
+</head>
+<body>
+ 
+    <div class="box">hover me i change the color</div>
+ 
+    <script>
+        $(".box").mouseover(function() {
+            $(this).css("background-color", "red");
+        }).mouseout(function() {
+            $(this).css("background-color", "green");
+        });
+    </script>
+ 
+</body>
+</html>

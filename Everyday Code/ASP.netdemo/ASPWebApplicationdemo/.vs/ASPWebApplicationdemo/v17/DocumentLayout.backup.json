@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\asp.netdemo\\aspwebapplicationdemo\\aspwebapplicationdemo\\hiddenfield.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|solutionrelative:aspwebapplicationdemo\\hiddenfield.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\asp.netdemo\\aspwebapplicationdemo\\aspwebapplicationdemo\\pagelifecycle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|solutionrelative:aspwebapplicationdemo\\pagelifecycle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\asp.netdemo\\aspwebapplicationdemo\\aspwebapplicationdemo\\testform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|solutionrelative:aspwebapplicationdemo\\testform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\asp.netdemo\\aspwebapplicationdemo\\aspwebapplicationdemo\\viewstate.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|solutionrelative:aspwebapplicationdemo\\viewstate.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\asp.netdemo\\aspwebapplicationdemo\\aspwebapplicationdemo\\hiddenfield.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|solutionrelative:aspwebapplicationdemo\\hiddenfield.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\asp.netdemo\\aspwebapplicationdemo\\aspwebapplicationdemo\\testform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|solutionrelative:aspwebapplicationdemo\\testform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\asp.netdemo\\aspwebapplicationdemo\\aspwebapplicationdemo\\viewstate.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|solutionrelative:aspwebapplicationdemo\\viewstate.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\asp.netdemo\\aspwebapplicationdemo\\aspwebapplicationdemo\\firstsession.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|solutionrelative:aspwebapplicationdemo\\firstsession.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\asp.netdemo\\aspwebapplicationdemo\\aspwebapplicationdemo\\firstsession.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|solutionrelative:aspwebapplicationdemo\\firstsession.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\asp.netdemo\\aspwebapplicationdemo\\aspwebapplicationdemo\\querystringsource.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|solutionrelative:aspwebapplicationdemo\\querystringsource.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\asp.netdemo\\aspwebapplicationdemo\\aspwebapplicationdemo\\viewstate.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|solutionrelative:aspwebapplicationdemo\\viewstate.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\asp.netdemo\\aspwebapplicationdemo\\aspwebapplicationdemo\\pagelifecycle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|solutionrelative:aspwebapplicationdemo\\pagelifecycle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\aspwebapplicationdemo\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|solutionrelative:aspwebapplicationdemo\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\aspwebapplicationdemo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B6F3671E-4E90-4A9E-B2B0-C10A91D516CF}|ASPWebApplicationdemo\\ASPWebApplicationdemo.csproj|solutionrelative:aspwebapplicationdemo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HiddenField.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\HiddenField.aspx.cs",
+              "RelativeDocumentMoniker": "ASPWebApplicationdemo\\HiddenField.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\HiddenField.aspx.cs",
+              "RelativeToolTip": "ASPWebApplicationdemo\\HiddenField.aspx.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T09:11:17.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HiddenField.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\HiddenField.aspx",
+              "RelativeDocumentMoniker": "ASPWebApplicationdemo\\HiddenField.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\HiddenField.aspx",
+              "RelativeToolTip": "ASPWebApplicationdemo\\HiddenField.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-23T09:11:13.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\TestForm.aspx.cs",
+              "RelativeDocumentMoniker": "ASPWebApplicationdemo\\TestForm.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\TestForm.aspx.cs",
+              "RelativeToolTip": "ASPWebApplicationdemo\\TestForm.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T09:08:12.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestForm.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\TestForm.aspx",
+              "RelativeDocumentMoniker": "ASPWebApplicationdemo\\TestForm.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\TestForm.aspx",
+              "RelativeToolTip": "ASPWebApplicationdemo\\TestForm.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-23T09:07:25.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FirstSession.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\FirstSession.aspx.cs",
+              "RelativeDocumentMoniker": "ASPWebApplicationdemo\\FirstSession.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\FirstSession.aspx.cs",
+              "RelativeToolTip": "ASPWebApplicationdemo\\FirstSession.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T07:35:08.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FirstSession.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\FirstSession.aspx",
+              "RelativeDocumentMoniker": "ASPWebApplicationdemo\\FirstSession.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\FirstSession.aspx",
+              "RelativeToolTip": "ASPWebApplicationdemo\\FirstSession.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-23T07:31:41.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QueryStringSource.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\QueryStringSource.aspx",
+              "RelativeDocumentMoniker": "ASPWebApplicationdemo\\QueryStringSource.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\QueryStringSource.aspx",
+              "RelativeToolTip": "ASPWebApplicationdemo\\QueryStringSource.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-23T06:59:09.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewState.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\ViewState.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ASPWebApplicationdemo\\ViewState.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\ViewState.aspx.designer.cs",
+              "RelativeToolTip": "ASPWebApplicationdemo\\ViewState.aspx.designer.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:42:18.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewState.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\ViewState.aspx.cs",
+              "RelativeDocumentMoniker": "ASPWebApplicationdemo\\ViewState.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\ViewState.aspx.cs",
+              "RelativeToolTip": "ASPWebApplicationdemo\\ViewState.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:42:17.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewState.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\ViewState.aspx",
+              "RelativeDocumentMoniker": "ASPWebApplicationdemo\\ViewState.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\ViewState.aspx",
+              "RelativeToolTip": "ASPWebApplicationdemo\\ViewState.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-23T06:42:12.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pagelifecycle.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\pagelifecycle.aspx.cs",
+              "RelativeDocumentMoniker": "ASPWebApplicationdemo\\pagelifecycle.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\pagelifecycle.aspx.cs",
+              "RelativeToolTip": "ASPWebApplicationdemo\\pagelifecycle.aspx.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:16:24.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "pagelifecycle.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\pagelifecycle.aspx",
+              "RelativeDocumentMoniker": "ASPWebApplicationdemo\\pagelifecycle.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\pagelifecycle.aspx",
+              "RelativeToolTip": "ASPWebApplicationdemo\\pagelifecycle.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-23T06:16:18.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\packages.config",
+              "RelativeDocumentMoniker": "ASPWebApplicationdemo\\packages.config",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\packages.config",
+              "RelativeToolTip": "ASPWebApplicationdemo\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-22T11:59:13.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\Web.config",
+              "RelativeDocumentMoniker": "ASPWebApplicationdemo\\Web.config",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\ASPWebApplicationdemo\\ASPWebApplicationdemo\\Web.config",
+              "RelativeToolTip": "ASPWebApplicationdemo\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-22T11:58:13.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

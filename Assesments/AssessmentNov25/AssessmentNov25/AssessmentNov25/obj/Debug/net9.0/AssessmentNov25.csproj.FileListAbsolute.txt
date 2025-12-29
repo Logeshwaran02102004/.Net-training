@@ -1,0 +1,11 @@
+C:\Users\logeshwaranv\Desktop\AssessmentNov25\AssessmentNov25\AssessmentNov25\bin\Debug\net9.0\AssessmentNov25.deps.json
+C:\Users\logeshwaranv\Desktop\AssessmentNov25\AssessmentNov25\AssessmentNov25\bin\Debug\net9.0\AssessmentNov25.dll
+C:\Users\logeshwaranv\Desktop\AssessmentNov25\AssessmentNov25\AssessmentNov25\bin\Debug\net9.0\AssessmentNov25.pdb
+C:\Users\logeshwaranv\Desktop\AssessmentNov25\AssessmentNov25\AssessmentNov25\obj\Debug\net9.0\AssessmentNov25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logeshwaranv\Desktop\AssessmentNov25\AssessmentNov25\AssessmentNov25\obj\Debug\net9.0\AssessmentNov25.AssemblyInfoInputs.cache
+C:\Users\logeshwaranv\Desktop\AssessmentNov25\AssessmentNov25\AssessmentNov25\obj\Debug\net9.0\AssessmentNov25.AssemblyInfo.cs
+C:\Users\logeshwaranv\Desktop\AssessmentNov25\AssessmentNov25\AssessmentNov25\obj\Debug\net9.0\AssessmentNov25.csproj.CoreCompileInputs.cache
+C:\Users\logeshwaranv\Desktop\AssessmentNov25\AssessmentNov25\AssessmentNov25\obj\Debug\net9.0\AssessmentNov25.dll
+C:\Users\logeshwaranv\Desktop\AssessmentNov25\AssessmentNov25\AssessmentNov25\obj\Debug\net9.0\refint\AssessmentNov25.dll
+C:\Users\logeshwaranv\Desktop\AssessmentNov25\AssessmentNov25\AssessmentNov25\obj\Debug\net9.0\AssessmentNov25.pdb
+C:\Users\logeshwaranv\Desktop\AssessmentNov25\AssessmentNov25\AssessmentNov25\obj\Debug\net9.0\ref\AssessmentNov25.dll

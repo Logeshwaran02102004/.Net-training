@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day10trainning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{054FD35C-E3BF-4AC7-BAB8-C56CBF0485AB}|Day10trainning\\Day10trainning.csproj|C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day10trainning\\day10trainning\\hashtabledemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054FD35C-E3BF-4AC7-BAB8-C56CBF0485AB}|Day10trainning\\Day10trainning.csproj|solutionrelative:day10trainning\\hashtabledemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054FD35C-E3BF-4AC7-BAB8-C56CBF0485AB}|Day10trainning\\Day10trainning.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\day10\\day10trainning\\day10trainning\\assignmentday10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054FD35C-E3BF-4AC7-BAB8-C56CBF0485AB}|Day10trainning\\Day10trainning.csproj|solutionrelative:day10trainning\\assignmentday10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054FD35C-E3BF-4AC7-BAB8-C56CBF0485AB}|Day10trainning\\Day10trainning.csproj|C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day10trainning\\day10trainning\\arraylistwithcomplextype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054FD35C-E3BF-4AC7-BAB8-C56CBF0485AB}|Day10trainning\\Day10trainning.csproj|solutionrelative:day10trainning\\arraylistwithcomplextype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054FD35C-E3BF-4AC7-BAB8-C56CBF0485AB}|Day10trainning\\Day10trainning.csproj|C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day10trainning\\day10trainning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054FD35C-E3BF-4AC7-BAB8-C56CBF0485AB}|Day10trainning\\Day10trainning.csproj|solutionrelative:day10trainning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assignmentday10.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day10trainning\\Day10trainning\\Assignmentday10.cs",
+              "RelativeDocumentMoniker": "Day10trainning\\Assignmentday10.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day10trainning\\Day10trainning\\Assignmentday10.cs",
+              "RelativeToolTip": "Day10trainning\\Assignmentday10.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowHUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:00:24.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Arraylistwithcomplextype.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day10trainning\\Day10trainning\\Arraylistwithcomplextype.cs",
+              "RelativeDocumentMoniker": "Day10trainning\\Arraylistwithcomplextype.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day10trainning\\Day10trainning\\Arraylistwithcomplextype.cs",
+              "RelativeToolTip": "Day10trainning\\Arraylistwithcomplextype.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAIwJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:20:31.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HashTableDemo.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day10trainning\\Day10trainning\\HashTableDemo.cs",
+              "RelativeDocumentMoniker": "Day10trainning\\HashTableDemo.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day10trainning\\Day10trainning\\HashTableDemo.cs",
+              "RelativeToolTip": "Day10trainning\\HashTableDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:41:54.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day10trainning\\Day10trainning\\Program.cs",
+              "RelativeDocumentMoniker": "Day10trainning\\Program.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day10\\Day10trainning\\Day10trainning\\Program.cs",
+              "RelativeToolTip": "Day10trainning\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:14:36.543Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

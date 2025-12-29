@@ -1,0 +1,8 @@
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day13\Features\Features\bin\Debug\Features.exe.config
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day13\Features\Features\bin\Debug\Features.exe
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day13\Features\Features\bin\Debug\Features.pdb
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day13\Features\Features\obj\Debug\Features.csproj.AssemblyReference.cache
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day13\Features\Features\obj\Debug\Features.csproj.CoreCompileInputs.cache
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day13\Features\Features\obj\Debug\Features.exe
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day13\Features\Features\obj\Debug\Features.pdb
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day13\Features\Features\obj\Debug\Features.exe.config

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\AssessmentNov25\\AssessmentNov25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F56433E5-67CD-4343-9A9A-EF71C2C4FA65}|AssessmentNov25\\AssessmentNov25.csproj|c:\\users\\logeshwaranv\\desktop\\assessmentnov25\\assessmentnov25\\assessmentnov25\\payrollprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56433E5-67CD-4343-9A9A-EF71C2C4FA65}|AssessmentNov25\\AssessmentNov25.csproj|solutionrelative:assessmentnov25\\payrollprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053E8942-7FB4-4E7C-B187-ACC54CC9D387}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\logeshwaranv\\desktop\\assessmentnov25\\assessmentnov25\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053E8942-7FB4-4E7C-B187-ACC54CC9D387}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56433E5-67CD-4343-9A9A-EF71C2C4FA65}|AssessmentNov25\\AssessmentNov25.csproj|c:\\users\\logeshwaranv\\desktop\\assessmentnov25\\assessmentnov25\\assessmentnov25\\mockemployeedatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56433E5-67CD-4343-9A9A-EF71C2C4FA65}|AssessmentNov25\\AssessmentNov25.csproj|solutionrelative:assessmentnov25\\mockemployeedatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56433E5-67CD-4343-9A9A-EF71C2C4FA65}|AssessmentNov25\\AssessmentNov25.csproj|c:\\users\\logeshwaranv\\desktop\\assessmentnov25\\assessmentnov25\\assessmentnov25\\employeerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56433E5-67CD-4343-9A9A-EF71C2C4FA65}|AssessmentNov25\\AssessmentNov25.csproj|solutionrelative:assessmentnov25\\employeerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56433E5-67CD-4343-9A9A-EF71C2C4FA65}|AssessmentNov25\\AssessmentNov25.csproj|c:\\users\\logeshwaranv\\desktop\\assessmentnov25\\assessmentnov25\\assessmentnov25\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56433E5-67CD-4343-9A9A-EF71C2C4FA65}|AssessmentNov25\\AssessmentNov25.csproj|solutionrelative:assessmentnov25\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRecord.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\AssessmentNov25\\AssessmentNov25\\AssessmentNov25\\EmployeeRecord.cs",
+              "RelativeDocumentMoniker": "AssessmentNov25\\EmployeeRecord.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\AssessmentNov25\\AssessmentNov25\\AssessmentNov25\\EmployeeRecord.cs",
+              "RelativeToolTip": "AssessmentNov25\\EmployeeRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:05:01.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\AssessmentNov25\\AssessmentNov25\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\AssessmentNov25\\AssessmentNov25\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA8AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:56:15.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PayrollProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\AssessmentNov25\\AssessmentNov25\\AssessmentNov25\\PayrollProcessor.cs",
+              "RelativeDocumentMoniker": "AssessmentNov25\\PayrollProcessor.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\AssessmentNov25\\AssessmentNov25\\AssessmentNov25\\PayrollProcessor.cs*",
+              "RelativeToolTip": "AssessmentNov25\\PayrollProcessor.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:33:52.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MockEmployeeDataReader.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\AssessmentNov25\\AssessmentNov25\\AssessmentNov25\\MockEmployeeDataReader.cs",
+              "RelativeDocumentMoniker": "AssessmentNov25\\MockEmployeeDataReader.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\AssessmentNov25\\AssessmentNov25\\AssessmentNov25\\MockEmployeeDataReader.cs",
+              "RelativeToolTip": "AssessmentNov25\\MockEmployeeDataReader.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwCcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:32:33.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\AssessmentNov25\\AssessmentNov25\\AssessmentNov25\\Class1.cs",
+              "RelativeDocumentMoniker": "AssessmentNov25\\Class1.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\AssessmentNov25\\AssessmentNov25\\AssessmentNov25\\Class1.cs",
+              "RelativeToolTip": "AssessmentNov25\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:15:37.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

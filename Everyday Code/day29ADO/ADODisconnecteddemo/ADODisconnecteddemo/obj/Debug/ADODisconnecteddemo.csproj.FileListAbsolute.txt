@@ -1,0 +1,8 @@
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day29ADO\ADODisconnecteddemo\ADODisconnecteddemo\bin\Debug\ADODisconnecteddemo.exe.config
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day29ADO\ADODisconnecteddemo\ADODisconnecteddemo\bin\Debug\ADODisconnecteddemo.exe
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day29ADO\ADODisconnecteddemo\ADODisconnecteddemo\bin\Debug\ADODisconnecteddemo.pdb
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day29ADO\ADODisconnecteddemo\ADODisconnecteddemo\obj\Debug\ADODisconnecteddemo.csproj.AssemblyReference.cache
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day29ADO\ADODisconnecteddemo\ADODisconnecteddemo\obj\Debug\ADODisconnecteddemo.csproj.CoreCompileInputs.cache
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day29ADO\ADODisconnecteddemo\ADODisconnecteddemo\obj\Debug\ADODisconnecteddemo.exe
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day29ADO\ADODisconnecteddemo\ADODisconnecteddemo\obj\Debug\ADODisconnecteddemo.pdb
+C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day29ADO\ADODisconnecteddemo\ADODisconnecteddemo\obj\Debug\ADODisconnecteddemo.exe.config

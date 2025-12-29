@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\AssignmentDay17\\AssignmentDay17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BB1D64-1BBE-4374-8CEE-0D8F47E58F09}|AssignmentDay17\\AssignmentDay17.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\day17\\assignmentday17\\assignmentday17\\assignmentday17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BB1D64-1BBE-4374-8CEE-0D8F47E58F09}|AssignmentDay17\\AssignmentDay17.csproj|solutionrelative:assignmentday17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BB1D64-1BBE-4374-8CEE-0D8F47E58F09}|AssignmentDay17\\AssignmentDay17.csproj|C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\AssignmentDay17\\AssignmentDay17\\assignmentday17\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BB1D64-1BBE-4374-8CEE-0D8F47E58F09}|AssignmentDay17\\AssignmentDay17.csproj|solutionrelative:assignmentday17\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BB1D64-1BBE-4374-8CEE-0D8F47E58F09}|AssignmentDay17\\AssignmentDay17.csproj|C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\AssignmentDay17\\AssignmentDay17\\assignmentday17\\dataexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BB1D64-1BBE-4374-8CEE-0D8F47E58F09}|AssignmentDay17\\AssignmentDay17.csproj|solutionrelative:assignmentday17\\dataexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BB1D64-1BBE-4374-8CEE-0D8F47E58F09}|AssignmentDay17\\AssignmentDay17.csproj|C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\AssignmentDay17\\AssignmentDay17\\assignmentday17\\notificationfactorypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BB1D64-1BBE-4374-8CEE-0D8F47E58F09}|AssignmentDay17\\AssignmentDay17.csproj|solutionrelative:assignmentday17\\notificationfactorypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BB1D64-1BBE-4374-8CEE-0D8F47E58F09}|AssignmentDay17\\AssignmentDay17.csproj|C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\AssignmentDay17\\AssignmentDay17\\assignmentday17\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BB1D64-1BBE-4374-8CEE-0D8F47E58F09}|AssignmentDay17\\AssignmentDay17.csproj|solutionrelative:assignmentday17\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\AssignmentDay17\\AssignmentDay17\\AssignmentDay17\\GameCharacter.cs",
+              "RelativeDocumentMoniker": "AssignmentDay17\\GameCharacter.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\AssignmentDay17\\AssignmentDay17\\AssignmentDay17\\GameCharacter.cs",
+              "RelativeToolTip": "AssignmentDay17\\GameCharacter.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:44:00.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataExplorer.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\AssignmentDay17\\AssignmentDay17\\AssignmentDay17\\DataExplorer.cs",
+              "RelativeDocumentMoniker": "AssignmentDay17\\DataExplorer.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\AssignmentDay17\\AssignmentDay17\\AssignmentDay17\\DataExplorer.cs",
+              "RelativeToolTip": "AssignmentDay17\\DataExplorer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:40:55.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\AssignmentDay17\\AssignmentDay17\\AssignmentDay17\\ILogger.cs",
+              "RelativeDocumentMoniker": "AssignmentDay17\\ILogger.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\AssignmentDay17\\AssignmentDay17\\AssignmentDay17\\ILogger.cs",
+              "RelativeToolTip": "AssignmentDay17\\ILogger.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA6wBIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:15:17.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationFactoryPattern.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\AssignmentDay17\\AssignmentDay17\\AssignmentDay17\\NotificationFactoryPattern.cs",
+              "RelativeDocumentMoniker": "AssignmentDay17\\NotificationFactoryPattern.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\AssignmentDay17\\AssignmentDay17\\AssignmentDay17\\NotificationFactoryPattern.cs",
+              "RelativeToolTip": "AssignmentDay17\\NotificationFactoryPattern.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:34:26.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\AssignmentDay17\\AssignmentDay17\\AssignmentDay17\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentDay17\\Program.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\day17\\AssignmentDay17\\AssignmentDay17\\AssignmentDay17\\Program.cs",
+              "RelativeToolTip": "AssignmentDay17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T10:39:18.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Image Slider</title>
+    <style>
+        #slider {
+            width: 300px;
+            height: 200px;
+            border: 2px solid black;
+        }
+        body{
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Automatic Image Slider</h1>
+
+<img id="slider" src="sunglass.jpg" alt="Image Slider">
+
+<script>
+    var img = [
+        "sunglass.jpg",
+        "tshirt.jpg",
+        "hodie.jpg"
+    ];
+
+    var m = 0;
+
+    function changeImage() {
+        m++;
+        if(m >= img.length) {
+            m = 0;
+        }
+        document.getElementById("slider").src = img[m];
+    }
+
+    setInterval(changeImage, 2000);
+</script>
+
+</body>
+</html>
