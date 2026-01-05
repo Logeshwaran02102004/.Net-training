@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\DataProject\\DataProjectDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4DAB74-FBF3-4C97-8D7B-8E5F76CA6F8E}|DataProjectDemo\\DataProjectDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\dataproject\\dataprojectdemo\\dataprojectdemo\\detailsform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9D4DAB74-FBF3-4C97-8D7B-8E5F76CA6F8E}|DataProjectDemo\\DataProjectDemo.csproj|solutionrelative:dataprojectdemo\\detailsform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4DAB74-FBF3-4C97-8D7B-8E5F76CA6F8E}|DataProjectDemo\\DataProjectDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\dataproject\\dataprojectdemo\\dataprojectdemo\\dataform_withds.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4DAB74-FBF3-4C97-8D7B-8E5F76CA6F8E}|DataProjectDemo\\DataProjectDemo.csproj|solutionrelative:dataprojectdemo\\dataform_withds.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4DAB74-FBF3-4C97-8D7B-8E5F76CA6F8E}|DataProjectDemo\\DataProjectDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\dataproject\\dataprojectdemo\\dataprojectdemo\\dataform_withds.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9D4DAB74-FBF3-4C97-8D7B-8E5F76CA6F8E}|DataProjectDemo\\DataProjectDemo.csproj|solutionrelative:dataprojectdemo\\dataform_withds.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4DAB74-FBF3-4C97-8D7B-8E5F76CA6F8E}|DataProjectDemo\\DataProjectDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\dataproject\\dataprojectdemo\\dataprojectdemo\\dataform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4DAB74-FBF3-4C97-8D7B-8E5F76CA6F8E}|DataProjectDemo\\DataProjectDemo.csproj|solutionrelative:dataprojectdemo\\dataform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4DAB74-FBF3-4C97-8D7B-8E5F76CA6F8E}|DataProjectDemo\\DataProjectDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\dataproject\\dataprojectdemo\\dataprojectdemo\\dataform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9D4DAB74-FBF3-4C97-8D7B-8E5F76CA6F8E}|DataProjectDemo\\DataProjectDemo.csproj|solutionrelative:dataprojectdemo\\dataform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailsForm.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\DataProject\\DataProjectDemo\\DataProjectDemo\\DetailsForm.aspx",
+              "RelativeDocumentMoniker": "DataProjectDemo\\DetailsForm.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\DataProject\\DataProjectDemo\\DataProjectDemo\\DetailsForm.aspx",
+              "RelativeToolTip": "DataProjectDemo\\DetailsForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-31T09:16:38.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataForm_withDS.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\DataProject\\DataProjectDemo\\DataProjectDemo\\DataForm_withDS.aspx.cs",
+              "RelativeDocumentMoniker": "DataProjectDemo\\DataForm_withDS.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\DataProject\\DataProjectDemo\\DataProjectDemo\\DataForm_withDS.aspx.cs",
+              "RelativeToolTip": "DataProjectDemo\\DataForm_withDS.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T09:16:01.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataForm_withDS.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\DataProject\\DataProjectDemo\\DataProjectDemo\\DataForm_withDS.aspx",
+              "RelativeDocumentMoniker": "DataProjectDemo\\DataForm_withDS.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\DataProject\\DataProjectDemo\\DataProjectDemo\\DataForm_withDS.aspx",
+              "RelativeToolTip": "DataProjectDemo\\DataForm_withDS.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-31T09:15:13.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\DataProject\\DataProjectDemo\\DataProjectDemo\\DataForm.aspx.cs",
+              "RelativeDocumentMoniker": "DataProjectDemo\\DataForm.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\DataProject\\DataProjectDemo\\DataProjectDemo\\DataForm.aspx.cs",
+              "RelativeToolTip": "DataProjectDemo\\DataForm.aspx.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T09:09:45.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataForm.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\DataProject\\DataProjectDemo\\DataProjectDemo\\DataForm.aspx",
+              "RelativeDocumentMoniker": "DataProjectDemo\\DataForm.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\DataProject\\DataProjectDemo\\DataProjectDemo\\DataForm.aspx",
+              "RelativeToolTip": "DataProjectDemo\\DataForm.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-31T09:09:19.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

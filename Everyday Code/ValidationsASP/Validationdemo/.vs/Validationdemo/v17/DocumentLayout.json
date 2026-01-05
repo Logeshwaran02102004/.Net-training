@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\",
+  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\validationdemo\\registrationform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|solutionrelative:validationdemo\\registrationform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\validationdemo\\registrationform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|solutionrelative:validationdemo\\registrationform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\validationdemo\\registrationform.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|solutionrelative:validationdemo\\registrationform.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|c:\\users\\logeshwaranv\\desktop\\infinite.nettraining\\csharp\\validationsasp\\validationdemo\\validationdemo\\dataformwith_ds.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|solutionrelative:validationdemo\\dataformwith_ds.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\validationdemo\\dataform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|solutionrelative:validationdemo\\dataform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\validationdemo\\dataform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|solutionrelative:validationdemo\\dataform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\validationdemo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|solutionrelative:validationdemo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\validationdemo\\assessdemovalidation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\validationdemo\\assessdemovalidation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|solutionrelative:validationdemo\\assessdemovalidation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\validationdemo\\assessdemovalidation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\validationsasp\\validationdemo\\validationdemo\\registrationform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|solutionrelative:validationdemo\\registrationform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\validationdemo\\registrationform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|solutionrelative:validationdemo\\registrationform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\validationdemo\\registrationform.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|solutionrelative:validationdemo\\registrationform.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\validationdemo\\dataformwith_ds.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|solutionrelative:validationdemo\\dataformwith_ds.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\validationdemo\\dataform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|solutionrelative:validationdemo\\dataform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\validationdemo\\dataform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|solutionrelative:validationdemo\\dataform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\validationdemo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|solutionrelative:validationdemo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\validationdemo\\assessdemovalidation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|solutionrelative:validationdemo\\assessdemovalidation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\validationdemo\\custumvalidation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\validationdemo\\custumvalidation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|solutionrelative:validationdemo\\custumvalidation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\validationdemo\\custumvalidation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\validationdemo\\custumvalidation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{927F614B-F36D-42AE-992B-BC1F266D4F8F}|Validationdemo\\Validationdemo.csproj|solutionrelative:validationdemo\\custumvalidation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,11 +62,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Registrationform.aspx",
-              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\Validationdemo\\Registrationform.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\Validationdemo\\Registrationform.aspx",
               "RelativeDocumentMoniker": "Validationdemo\\Registrationform.aspx",
-              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\Validationdemo\\Registrationform.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\Validationdemo\\Registrationform.aspx",
               "RelativeToolTip": "Validationdemo\\Registrationform.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -75,24 +75,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Registrationform.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\Validationdemo\\Registrationform.aspx.cs",
-              "RelativeDocumentMoniker": "Validationdemo\\Registrationform.aspx.cs",
-              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\Validationdemo\\Registrationform.aspx.cs",
-              "RelativeToolTip": "Validationdemo\\Registrationform.aspx.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T04:41:03.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DataForm.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\Validationdemo\\DataForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\Validationdemo\\DataForm.aspx.cs",
               "RelativeDocumentMoniker": "Validationdemo\\DataForm.aspx.cs",
-              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\Validationdemo\\DataForm.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\Validationdemo\\DataForm.aspx.cs",
               "RelativeToolTip": "Validationdemo\\DataForm.aspx.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAA2wCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -101,24 +88,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DataFormWith_Ds.aspx",
-              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\Validationdemo\\DataFormWith_Ds.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\Validationdemo\\DataFormWith_Ds.aspx",
               "RelativeDocumentMoniker": "Validationdemo\\DataFormWith_Ds.aspx",
-              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\Validationdemo\\DataFormWith_Ds.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\Validationdemo\\DataFormWith_Ds.aspx",
               "RelativeToolTip": "Validationdemo\\DataFormWith_Ds.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-12-24T07:18:58.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Registrationform.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\Validationdemo\\Registrationform.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\Validationdemo\\Registrationform.aspx.designer.cs",
               "RelativeDocumentMoniker": "Validationdemo\\Registrationform.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\Validationdemo\\Registrationform.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\Validationdemo\\Registrationform.aspx.designer.cs",
               "RelativeToolTip": "Validationdemo\\Registrationform.aspx.designer.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -127,24 +113,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "AssessdemoValidation.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\Validationdemo\\AssessdemoValidation.aspx",
+              "RelativeDocumentMoniker": "Validationdemo\\AssessdemoValidation.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\Validationdemo\\AssessdemoValidation.aspx",
+              "RelativeToolTip": "Validationdemo\\AssessdemoValidation.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-24T05:47:29.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registrationform.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\Validationdemo\\Registrationform.aspx.cs",
+              "RelativeDocumentMoniker": "Validationdemo\\Registrationform.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\Validationdemo\\Registrationform.aspx.cs",
+              "RelativeToolTip": "Validationdemo\\Registrationform.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T04:41:03.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "DataForm.aspx",
-              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\Validationdemo\\DataForm.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\Validationdemo\\DataForm.aspx",
               "RelativeDocumentMoniker": "Validationdemo\\DataForm.aspx",
-              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\Validationdemo\\DataForm.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\Validationdemo\\DataForm.aspx",
               "RelativeToolTip": "Validationdemo\\DataForm.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-12-24T07:12:46.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\Validationdemo\\Web.config",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\Validationdemo\\Web.config",
               "RelativeDocumentMoniker": "Validationdemo\\Web.config",
-              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\Validationdemo\\Web.config",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\Validationdemo\\Web.config",
               "RelativeToolTip": "Validationdemo\\Web.config",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -155,9 +166,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "AssessdemoValidation.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\Validationdemo\\AssessdemoValidation.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\Validationdemo\\AssessdemoValidation.aspx.cs",
               "RelativeDocumentMoniker": "Validationdemo\\AssessdemoValidation.aspx.cs",
-              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\Validationdemo\\AssessdemoValidation.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\Validationdemo\\AssessdemoValidation.aspx.cs",
               "RelativeToolTip": "Validationdemo\\AssessdemoValidation.aspx.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -166,24 +177,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AssessdemoValidation.aspx",
-              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\Validationdemo\\AssessdemoValidation.aspx",
-              "RelativeDocumentMoniker": "Validationdemo\\AssessdemoValidation.aspx",
-              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\Validationdemo\\AssessdemoValidation.aspx",
-              "RelativeToolTip": "Validationdemo\\AssessdemoValidation.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-24T05:47:29.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
               "Title": "CustumValidation.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\Validationdemo\\CustumValidation.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\Validationdemo\\CustumValidation.aspx.cs",
               "RelativeDocumentMoniker": "Validationdemo\\CustumValidation.aspx.cs",
-              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\Validationdemo\\CustumValidation.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\Validationdemo\\CustumValidation.aspx.cs",
               "RelativeToolTip": "Validationdemo\\CustumValidation.aspx.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAgwCQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -194,11 +192,10 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "CustumValidation.aspx",
-              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\Validationdemo\\CustumValidation.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\Validationdemo\\CustumValidation.aspx",
               "RelativeDocumentMoniker": "Validationdemo\\CustumValidation.aspx",
-              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ValidationsASP\\Validationdemo\\Validationdemo\\CustumValidation.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ValidationsASP\\Validationdemo\\Validationdemo\\CustumValidation.aspx",
               "RelativeToolTip": "Validationdemo\\CustumValidation.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-12-24T05:26:08.745Z",
               "EditorCaption": ""

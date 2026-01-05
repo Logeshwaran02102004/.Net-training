@@ -1,0 +1,44 @@
+﻿@model List<FirstMVC.Models.Employee>
+
+@{
+    ViewBag.Title = "Display_Valuesfrom_HrController";
+}
+
+
+<h1>The data is retrive by demo controller which is passed by data controller </h1>
+
+@foreach (var l in Model)
+{
+    <ol>
+        <li>@l.ID</li>
+        <li>@l.Name</li>
+        <li>@l.Age</li>
+    </ol>
+}
+
+
+
+@*the given below is another method to view *@
+
+
+@*@using FirstMVC.Models
+
+@{
+    var employees = TempData["Stored"] as List<Employee>;
+}
+
+@if (employees != null)
+{
+    foreach (var l in employees)
+    {
+        <ol>
+            <li>@l.ID</li>
+            <li>@l.Name</li>
+            <li>@l.Age</li>
+        </ol>
+    }
+}
+else
+{
+    <p>No data available</p>
+}*@

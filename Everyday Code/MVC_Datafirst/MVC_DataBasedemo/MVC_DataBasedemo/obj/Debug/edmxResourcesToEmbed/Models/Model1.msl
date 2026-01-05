@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SQL_DAY_1ModelStoreContainer" CdmEntityContainer="SQL_DAY_1Entities">
+    <EntitySetMapping Name="BankAccounts">
+      <EntityTypeMapping TypeName="SQL_DAY_1Model.BankAccount">
+        <MappingFragment StoreEntitySet="BankAccount">
+          <ScalarProperty Name="acc_id" ColumnName="acc_id" />
+          <ScalarProperty Name="acc_name" ColumnName="acc_name" />
+          <ScalarProperty Name="balance" ColumnName="balance" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Customers">
+      <EntityTypeMapping TypeName="SQL_DAY_1Model.Customer">
+        <MappingFragment StoreEntitySet="Customer">
+          <ScalarProperty Name="cus_id" ColumnName="cus_id" />
+          <ScalarProperty Name="cus_name" ColumnName="cus_name" />
+          <ScalarProperty Name="cus_age" ColumnName="cus_age" />
+          <ScalarProperty Name="cus_address" ColumnName="cus_address" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Customers1">
+      <EntityTypeMapping TypeName="SQL_DAY_1Model.Customer1">
+        <MappingFragment StoreEntitySet="Customers">
+          <ScalarProperty Name="custid" ColumnName="custid" />
+          <ScalarProperty Name="custname" ColumnName="custname" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="caddress" ColumnName="caddress" />
+          <ScalarProperty Name="cphone" ColumnName="cphone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Departments">
+      <EntityTypeMapping TypeName="SQL_DAY_1Model.Department">
+        <MappingFragment StoreEntitySet="Department">
+          <ScalarProperty Name="DeptID" ColumnName="DeptID" />
+          <ScalarProperty Name="DeptName" ColumnName="DeptName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="SQL_DAY_1Model.Employee">
+        <MappingFragment StoreEntitySet="Employee">
+          <ScalarProperty Name="EmpID" ColumnName="EmpID" />
+          <ScalarProperty Name="EmpName" ColumnName="EmpName" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+          <ScalarProperty Name="DateOfJoin" ColumnName="DateOfJoin" />
+          <ScalarProperty Name="DeptID" ColumnName="DeptID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ErrorLogs">
+      <EntityTypeMapping TypeName="SQL_DAY_1Model.ErrorLog">
+        <MappingFragment StoreEntitySet="ErrorLog">
+          <ScalarProperty Name="error_id" ColumnName="error_id" />
+          <ScalarProperty Name="error_msg" ColumnName="error_msg" />
+          <ScalarProperty Name="error_time" ColumnName="error_time" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="one">
+      <EntityTypeMapping TypeName="SQL_DAY_1Model.one">
+        <MappingFragment StoreEntitySet="one">
+          <ScalarProperty Name="cid" ColumnName="cid" />
+          <ScalarProperty Name="cname" ColumnName="cname" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="SQL_DAY_1Model.Order">
+        <MappingFragment StoreEntitySet="Orders">
+          <ScalarProperty Name="OrderId" ColumnName="OrderId" />
+          <ScalarProperty Name="CustomerName" ColumnName="CustomerName" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="PurchaseDate" ColumnName="PurchaseDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PriceOrders">
+      <EntityTypeMapping TypeName="SQL_DAY_1Model.PriceOrder">
+        <MappingFragment StoreEntitySet="PriceOrders">
+          <ScalarProperty Name="order_id" ColumnName="order_id" />
+          <ScalarProperty Name="cus_id" ColumnName="cus_id" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="order_date" ColumnName="order_date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="SQL_DAY_1Model.Product">
+        <MappingFragment StoreEntitySet="Products">
+          <ScalarProperty Name="pro_id" ColumnName="pro_id" />
+          <ScalarProperty Name="pro_name" ColumnName="pro_name" />
+          <ScalarProperty Name="price" ColumnName="price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="students">
+      <EntityTypeMapping TypeName="SQL_DAY_1Model.student">
+        <MappingFragment StoreEntitySet="students">
+          <ScalarProperty Name="student_id" ColumnName="student_id" />
+          <ScalarProperty Name="first_name" ColumnName="first_name" />
+          <ScalarProperty Name="last_name" ColumnName="last_name" />
+          <ScalarProperty Name="age" ColumnName="age" />
+          <ScalarProperty Name="grade" ColumnName="grade" />
+          <ScalarProperty Name="email" ColumnName="email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="twoes">
+      <EntityTypeMapping TypeName="SQL_DAY_1Model.two">
+        <MappingFragment StoreEntitySet="two">
+          <ScalarProperty Name="cid" ColumnName="cid" />
+          <ScalarProperty Name="cname" ColumnName="cname" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblExceptionLogs">
+      <EntityTypeMapping TypeName="SQL_DAY_1Model.tblExceptionLog">
+        <MappingFragment StoreEntitySet="tblExceptionLog">
+          <ScalarProperty Name="LogId" ColumnName="LogId" />
+          <ScalarProperty Name="Exceptionmsg" ColumnName="Exceptionmsg" />
+          <ScalarProperty Name="Exceptiontype" ColumnName="Exceptiontype" />
+          <ScalarProperty Name="Exceptionsource" ColumnName="Exceptionsource" />
+          <ScalarProperty Name="ExceptionUrl" ColumnName="ExceptionUrl" />
+          <ScalarProperty Name="Logdate" ColumnName="Logdate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="testings">
+      <EntityTypeMapping TypeName="SQL_DAY_1Model.testing">
+        <MappingFragment StoreEntitySet="testing">
+          <ScalarProperty Name="custid" ColumnName="custid" />
+          <ScalarProperty Name="custname" ColumnName="custname" />
+          <ScalarProperty Name="age" ColumnName="age" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="Addproc" FunctionName="SQL_DAY_1Model.Store.Addproc" />
+    <FunctionImportMapping FunctionImportName="Addproc1" FunctionName="SQL_DAY_1Model.Store.Addproc1" />
+    <FunctionImportMapping FunctionImportName="Addproc2" FunctionName="SQL_DAY_1Model.Store.Addproc2" />
+    <FunctionImportMapping FunctionImportName="CheckBook" FunctionName="SQL_DAY_1Model.Store.CheckBook" />
+    <FunctionImportMapping FunctionImportName="CheckStock" FunctionName="SQL_DAY_1Model.Store.CheckStock" />
+    <FunctionImportMapping FunctionImportName="displaydata" FunctionName="SQL_DAY_1Model.Store.displaydata" />
+    <FunctionImportMapping FunctionImportName="divide" FunctionName="SQL_DAY_1Model.Store.divide" />
+    <FunctionImportMapping FunctionImportName="ExceptionLoggingTodatabase" FunctionName="SQL_DAY_1Model.Store.ExceptionLoggingTodatabase" />
+    <FunctionImportMapping FunctionImportName="GetCustomerName" FunctionName="SQL_DAY_1Model.Store.GetCustomerName" />
+    <FunctionImportMapping FunctionImportName="getdata" FunctionName="SQL_DAY_1Model.Store.getdata" />
+    <FunctionImportMapping FunctionImportName="GetOrders_Date" FunctionName="SQL_DAY_1Model.Store.GetOrders_Date">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="SQL_DAY_1Model.GetOrders_Date_Result">
+          <ScalarProperty Name="OrderId" ColumnName="OrderId" />
+          <ScalarProperty Name="CustomerName" ColumnName="CustomerName" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="PurchaseDate" ColumnName="PurchaseDate" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GetOrdersByDate" FunctionName="SQL_DAY_1Model.Store.GetOrdersByDate">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="SQL_DAY_1Model.GetOrdersByDate_Result">
+          <ScalarProperty Name="OrderId" ColumnName="OrderId" />
+          <ScalarProperty Name="CustomerName" ColumnName="CustomerName" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="PurchaseDate" ColumnName="PurchaseDate" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GetRow" FunctionName="SQL_DAY_1Model.Store.GetRow">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="SQL_DAY_1Model.GetRow_Result">
+          <ScalarProperty Name="custid" ColumnName="custid" />
+          <ScalarProperty Name="custname" ColumnName="custname" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="caddress" ColumnName="caddress" />
+          <ScalarProperty Name="cphone" ColumnName="cphone" />
+          <ScalarProperty Name="RowNum" ColumnName="RowNum" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="getstudents" FunctionName="SQL_DAY_1Model.Store.getstudents">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="SQL_DAY_1Model.getstudents_Result">
+          <ScalarProperty Name="student_id" ColumnName="student_id" />
+          <ScalarProperty Name="first_name" ColumnName="first_name" />
+          <ScalarProperty Name="last_name" ColumnName="last_name" />
+          <ScalarProperty Name="age" ColumnName="age" />
+          <ScalarProperty Name="grade" ColumnName="grade" />
+          <ScalarProperty Name="email" ColumnName="email" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="InsertStudent" FunctionName="SQL_DAY_1Model.Store.InsertStudent" />
+    <FunctionImportMapping FunctionImportName="myproc" FunctionName="SQL_DAY_1Model.Store.myproc" />
+    <FunctionImportMapping FunctionImportName="sp_getemp" FunctionName="SQL_DAY_1Model.Store.sp_getemp">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="SQL_DAY_1Model.sp_getemp_Result">
+          <ScalarProperty Name="EmpID" ColumnName="EmpID" />
+          <ScalarProperty Name="EmpName" ColumnName="EmpName" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+          <ScalarProperty Name="DateOfJoin" ColumnName="DateOfJoin" />
+          <ScalarProperty Name="DeptID" ColumnName="DeptID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_getempusingdate" FunctionName="SQL_DAY_1Model.Store.sp_getempusingdate">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="SQL_DAY_1Model.sp_getempusingdate_Result">
+          <ScalarProperty Name="EmpID" ColumnName="EmpID" />
+          <ScalarProperty Name="EmpName" ColumnName="EmpName" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+          <ScalarProperty Name="DateOfJoin" ColumnName="DateOfJoin" />
+          <ScalarProperty Name="DeptID" ColumnName="DeptID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

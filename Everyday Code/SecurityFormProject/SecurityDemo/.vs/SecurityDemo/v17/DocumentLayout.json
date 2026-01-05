@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\SecurityFormProject\\SecurityDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A84D9015-91D3-4769-B129-FDB72F3D9C7F}|SecurityDemo\\SecurityDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\securityformproject\\securitydemo\\securitydemo\\loginform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84D9015-91D3-4769-B129-FDB72F3D9C7F}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\loginform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84D9015-91D3-4769-B129-FDB72F3D9C7F}|SecurityDemo\\SecurityDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\securityformproject\\securitydemo\\securitydemo\\welcomepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A84D9015-91D3-4769-B129-FDB72F3D9C7F}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\welcomepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84D9015-91D3-4769-B129-FDB72F3D9C7F}|SecurityDemo\\SecurityDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\securityformproject\\securitydemo\\securitydemo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A84D9015-91D3-4769-B129-FDB72F3D9C7F}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84D9015-91D3-4769-B129-FDB72F3D9C7F}|SecurityDemo\\SecurityDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\securityformproject\\securitydemo\\securitydemo\\loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A84D9015-91D3-4769-B129-FDB72F3D9C7F}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\SecurityFormProject\\SecurityDemo\\SecurityDemo\\Web.config",
+              "RelativeDocumentMoniker": "SecurityDemo\\Web.config",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\SecurityFormProject\\SecurityDemo\\SecurityDemo\\Web.config",
+              "RelativeToolTip": "SecurityDemo\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-30T12:22:58.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WelcomePage.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\SecurityFormProject\\SecurityDemo\\SecurityDemo\\WelcomePage.aspx",
+              "RelativeDocumentMoniker": "SecurityDemo\\WelcomePage.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\SecurityFormProject\\SecurityDemo\\SecurityDemo\\WelcomePage.aspx",
+              "RelativeToolTip": "SecurityDemo\\WelcomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T12:22:41.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\SecurityFormProject\\SecurityDemo\\SecurityDemo\\LoginForm.aspx.cs",
+              "RelativeDocumentMoniker": "SecurityDemo\\LoginForm.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\SecurityFormProject\\SecurityDemo\\SecurityDemo\\LoginForm.aspx.cs",
+              "RelativeToolTip": "SecurityDemo\\LoginForm.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA2wBkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T10:28:45.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\SecurityFormProject\\SecurityDemo\\SecurityDemo\\LoginForm.aspx",
+              "RelativeDocumentMoniker": "SecurityDemo\\LoginForm.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\SecurityFormProject\\SecurityDemo\\SecurityDemo\\LoginForm.aspx",
+              "RelativeToolTip": "SecurityDemo\\LoginForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T10:28:19.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -13,5 +13,22 @@ namespace ASPWebApplicationdemo
         {
 
         }
+
+
+
+        protected void Btnredirect_Click(object sender, EventArgs e)
+        {
+            //Response.Redirect("QueryStringDestination.aspx?username=" + txtusername.Text +
+            //    "&password=" + txtpass.Text);
+
+            //2 option
+
+            string url;
+            url = "QueryStringDestination.aspx?QS1=" + Server.UrlEncode(txtusername.Text);
+            url += "&QS2=" + txtpass.Text;
+            Response.Redirect(url);
+
+        }
+
     }
 }

@@ -49,20 +49,27 @@ namespace ElectricityBill
             DBHandler dbHandler = new DBHandler();
             using (SqlConnection connection = dbHandler.GetConnection())
             {
-                string insertQuery = "insert into ElectricityBill " +
-                                     "(consumer_number, consumer_name, units_consumed, bill_amount) " +
-                                     "VALUES (@number, @name, @units, @amount)";
-
-                SqlCommand command = new SqlCommand(insertQuery, connection);
-                command.Parameters.AddWithValue("@number", bill.ConsumerNumber);
-                command.Parameters.AddWithValue("@name", bill.ConsumerName);
-                command.Parameters.AddWithValue("@units", bill.UnitsConsumed);
-                command.Parameters.AddWithValue("@amount", bill.BillAmount);
+                string checkQuery = "SELECT COUNT(*) FROM ElectricityBill WHERE consumer_number = @number";
+                SqlCommand checkCmd = new SqlCommand(checkQuery, connection);
+                checkCmd.Parameters.AddWithValue("@number", bill.ConsumerNumber);
 
                 connection.Open();
-                command.ExecuteNonQuery();
+                int count = (int)checkCmd.ExecuteScalar();
+                if (count > 0)
+                    throw new Exception("Consumer Number already exists!");
+
+                string insertQuery = "INSERT INTO ElectricityBill (consumer_number, consumer_name, units_consumed, bill_amount) " +
+                                     "VALUES (@number, @name, @units, @amount)";
+                SqlCommand cmd = new SqlCommand(insertQuery, connection);
+                cmd.Parameters.AddWithValue("@number", bill.ConsumerNumber);
+                cmd.Parameters.AddWithValue("@name", bill.ConsumerName);
+                cmd.Parameters.AddWithValue("@units", bill.UnitsConsumed);
+                cmd.Parameters.AddWithValue("@amount", bill.BillAmount);
+
+                cmd.ExecuteNonQuery();
             }
         }
+
 
         public List<ElectricityBill> GetLastNBills(int count)
         {

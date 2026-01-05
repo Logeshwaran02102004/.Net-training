@@ -19,15 +19,16 @@ namespace ElectricityBill
         {
             try
             {
-                ElectricityBill ebill = new ElectricityBill();
-                ebill.ConsumerNumber = txtConsumerNumber.Text.Trim();
-                ebill.ConsumerName = txtConsumerName.Text.Trim();
+                ElectricityBill ebill = new ElectricityBill
+                {
+                    ConsumerNumber = txtConsumerNumber.Text.Trim(),
+                    ConsumerName = txtConsumerName.Text.Trim()
+                };
 
-
-                int units;
-                if (!int.TryParse(txtUnitsConsumed.Text.Trim(), out units))
+                if (!int.TryParse(txtUnitsConsumed.Text.Trim(), out int units))
                 {
                     lblMessage.Text = "Units must be a valid number";
+                    lblBillAmount.Text = "";
                     return;
                 }
                 ebill.UnitsConsumed = units;
@@ -35,21 +36,26 @@ namespace ElectricityBill
                 ElectricityBoard board = new ElectricityBoard();
                 board.CalculateBill(ebill);
 
-                lblBillAmount.Text = $"Bill Amount: ₹{ebill.BillAmount}";
+                try
+                {
+                    board.AddBill(ebill);
+                    lblBillAmount.Text = $"Bill Amount: ₹{ebill.BillAmount}";
+                    lblMessage.Text = "";
 
-                board.AddBill(ebill);
-
-                txtConsumerNumber.Text = "";
-                txtConsumerName.Text = "";
-                txtUnitsConsumed.Text = "";
-            }
-            catch (FormatException ex)
-            {
-                lblMessage.Text = ex.Message;
+                    txtConsumerNumber.Text = "";
+                    txtConsumerName.Text = "";
+                    txtUnitsConsumed.Text = "";
+                }
+                catch (Exception ex)
+                {
+                    lblMessage.Text = ex.Message;
+                    lblBillAmount.Text = "";
+                }
             }
             catch (Exception ex)
             {
                 lblMessage.Text = "Error: " + ex.Message;
+                lblBillAmount.Text = "";
             }
         }
     }

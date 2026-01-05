@@ -1,7 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\Infinite.nettraining\\Csharp\\ASP.netdemo\\Aspnetdemo\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ASP.netdemo\\Aspnetdemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D385138-CD34-41A5-ADA3-AA147E7FFA4F}|Aspnetdemo\\Aspnetdemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\asp.netdemo\\aspnetdemo\\aspnetdemo\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{0D385138-CD34-41A5-ADA3-AA147E7FFA4F}|Aspnetdemo\\Aspnetdemo.csproj|solutionrelative:aspnetdemo\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D385138-CD34-41A5-ADA3-AA147E7FFA4F}|Aspnetdemo\\Aspnetdemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\asp.netdemo\\aspnetdemo\\aspnetdemo\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0D385138-CD34-41A5-ADA3-AA147E7FFA4F}|Aspnetdemo\\Aspnetdemo.csproj|solutionrelative:aspnetdemo\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D385138-CD34-41A5-ADA3-AA147E7FFA4F}|Aspnetdemo\\Aspnetdemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\asp.netdemo\\aspnetdemo\\aspnetdemo\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{0D385138-CD34-41A5-ADA3-AA147E7FFA4F}|Aspnetdemo\\Aspnetdemo.csproj|solutionrelative:aspnetdemo\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D385138-CD34-41A5-ADA3-AA147E7FFA4F}|Aspnetdemo\\Aspnetdemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\asp.netdemo\\aspnetdemo\\aspnetdemo\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0D385138-CD34-41A5-ADA3-AA147E7FFA4F}|Aspnetdemo\\Aspnetdemo.csproj|solutionrelative:aspnetdemo\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D385138-CD34-41A5-ADA3-AA147E7FFA4F}|Aspnetdemo\\Aspnetdemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\asp.netdemo\\aspnetdemo\\aspnetdemo\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D385138-CD34-41A5-ADA3-AA147E7FFA4F}|Aspnetdemo\\Aspnetdemo.csproj|solutionrelative:aspnetdemo\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D385138-CD34-41A5-ADA3-AA147E7FFA4F}|Aspnetdemo\\Aspnetdemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\asp.netdemo\\aspnetdemo\\aspnetdemo\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D385138-CD34-41A5-ADA3-AA147E7FFA4F}|Aspnetdemo\\Aspnetdemo.csproj|solutionrelative:aspnetdemo\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D385138-CD34-41A5-ADA3-AA147E7FFA4F}|Aspnetdemo\\Aspnetdemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\asp.netdemo\\aspnetdemo\\aspnetdemo\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0D385138-CD34-41A5-ADA3-AA147E7FFA4F}|Aspnetdemo\\Aspnetdemo.csproj|solutionrelative:aspnetdemo\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,11 +38,101 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ASP.netdemo\\Aspnetdemo\\Aspnetdemo\\Site.Master",
+              "RelativeDocumentMoniker": "Aspnetdemo\\Site.Master",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ASP.netdemo\\Aspnetdemo\\Aspnetdemo\\Site.Master",
+              "RelativeToolTip": "Aspnetdemo\\Site.Master",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-31T05:07:45.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ASP.netdemo\\Aspnetdemo\\Aspnetdemo\\favicon.ico",
+              "RelativeDocumentMoniker": "Aspnetdemo\\favicon.ico",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ASP.netdemo\\Aspnetdemo\\Aspnetdemo\\favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "RelativeToolTip": "Aspnetdemo\\favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-12-31T05:07:35.284Z",
+              "EditorCaption": " - Icon [16x16, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ASP.netdemo\\Aspnetdemo\\Aspnetdemo\\Default.aspx",
+              "RelativeDocumentMoniker": "Aspnetdemo\\Default.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ASP.netdemo\\Aspnetdemo\\Aspnetdemo\\Default.aspx",
+              "RelativeToolTip": "Aspnetdemo\\Default.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-31T05:07:28.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ASP.netdemo\\Aspnetdemo\\Aspnetdemo\\Contact.aspx",
+              "RelativeDocumentMoniker": "Aspnetdemo\\Contact.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ASP.netdemo\\Aspnetdemo\\Aspnetdemo\\Contact.aspx",
+              "RelativeToolTip": "Aspnetdemo\\Contact.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-31T05:07:18.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ASP.netdemo\\Aspnetdemo\\Aspnetdemo\\Contact.aspx.cs",
+              "RelativeDocumentMoniker": "Aspnetdemo\\Contact.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ASP.netdemo\\Aspnetdemo\\Aspnetdemo\\Contact.aspx.cs",
+              "RelativeToolTip": "Aspnetdemo\\Contact.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T05:07:15.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ASP.netdemo\\Aspnetdemo\\Aspnetdemo\\About.aspx.cs",
+              "RelativeDocumentMoniker": "Aspnetdemo\\About.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ASP.netdemo\\Aspnetdemo\\Aspnetdemo\\About.aspx.cs",
+              "RelativeToolTip": "Aspnetdemo\\About.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T05:07:12.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ASP.netdemo\\Aspnetdemo\\Aspnetdemo\\About.aspx",
+              "RelativeDocumentMoniker": "Aspnetdemo\\About.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ASP.netdemo\\Aspnetdemo\\Aspnetdemo\\About.aspx",
+              "RelativeToolTip": "Aspnetdemo\\About.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-31T05:05:54.63Z",
+              "EditorCaption": ""
             }
           ]
         }

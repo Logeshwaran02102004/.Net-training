@@ -33,15 +33,6 @@ namespace ElectricityBill
         protected global::System.Web.UI.WebControls.Label lblMessage;
 
         /// <summary>
-        /// lblConsumerNumber control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblConsumerNumber;
-
-        /// <summary>
         /// txtConsumerNumber control.
         /// </summary>
         /// <remarks>
@@ -51,15 +42,6 @@ namespace ElectricityBill
         protected global::System.Web.UI.WebControls.TextBox txtConsumerNumber;
 
         /// <summary>
-        /// lblConsumerName control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblConsumerName;
-
-        /// <summary>
         /// txtConsumerName control.
         /// </summary>
         /// <remarks>
@@ -67,15 +49,6 @@ namespace ElectricityBill
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtConsumerName;
-
-        /// <summary>
-        /// lblUnitsConsumed control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblUnitsConsumed;
 
         /// <summary>
         /// txtUnitsConsumed control.

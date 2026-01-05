@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "WebserviceDemo1\\WebserviceDemo1.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Webservice_Client\\Webservice_Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\exceptionproject\\exceptions_prj\\exceptions_prj\\exceptionloggingdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\exceptionloggingdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\exceptionproject\\exceptions_prj\\exceptions_prj\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\exceptionproject\\exceptions_prj\\exceptions_prj\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\exceptionproject\\exceptions_prj\\exceptions_prj\\error.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\error.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\exceptionproject\\exceptions_prj\\exceptions_prj\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\exceptionproject\\exceptions_prj\\exceptions_prj\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\exceptionproject\\exceptions_prj\\exceptions_prj\\testerr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\testerr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\exceptionproject\\exceptions_prj\\exceptions_prj\\servererr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\servererr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\exceptionproject\\exceptions_prj\\exceptions_prj\\testerr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\testerr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\exceptionproject\\exceptions_prj\\exceptions_prj\\servererr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\servererr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\exceptionproject\\exceptions_prj\\exceptions_prj\\pagenotfound.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\pagenotfound.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\exceptionproject\\exceptions_prj\\exceptions_prj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\exceptionproject\\exceptions_prj\\exceptions_prj\\pagenotfound.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\pagenotfound.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\exceptionproject\\exceptions_prj\\exceptions_prj\\testerr.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\testerr.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\exceptionproject\\exceptions_prj\\exceptions_prj\\servererr.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\servererr.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\exceptionproject\\exceptions_prj\\exceptions_prj\\dberror.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\dberror.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\exceptionproject\\exceptions_prj\\exceptions_prj\\err.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\err.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\exceptionproject\\exceptions_prj\\exceptions_prj\\defaulterr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\defaulterr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\exceptionproject\\exceptions_prj\\exceptions_prj\\defaulterr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\defaulterr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\exceptionproject\\exceptions_prj\\exceptions_prj\\apperr.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\apperr.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\exceptionproject\\exceptions_prj\\exceptions_prj\\employee.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\employee.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\exceptionproject\\exceptions_prj\\exceptions_prj\\dberror.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC38717A-53F6-4334-9E85-960520C02475}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\dberror.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.txt",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\Error.txt",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\Error.txt",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\Error.txt",
+              "RelativeToolTip": "Exceptions_Prj\\Error.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-30T09:48:24.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "testerr.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\testerr.aspx.cs",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\testerr.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\testerr.aspx.cs",
+              "RelativeToolTip": "Exceptions_Prj\\testerr.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:16:14.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\WebForm1.aspx",
+              "RelativeToolTip": "Exceptions_Prj\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T06:50:39.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\WebForm1.aspx.cs",
+              "RelativeToolTip": "Exceptions_Prj\\WebForm1.aspx.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T06:51:10.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionLoggingDb.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\ExceptionLoggingDb.cs",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\ExceptionLoggingDb.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\ExceptionLoggingDb.cs",
+              "RelativeToolTip": "Exceptions_Prj\\ExceptionLoggingDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T06:43:29.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\Global.asax.cs",
+              "RelativeToolTip": "Exceptions_Prj\\Global.asax.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T06:45:45.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\Web.Debug.config",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\Web.Debug.config",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\Web.Debug.config",
+              "RelativeToolTip": "Exceptions_Prj\\Web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-30T07:16:47.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Servererr.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\Servererr.aspx.cs",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\Servererr.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\Servererr.aspx.cs",
+              "RelativeToolTip": "Exceptions_Prj\\Servererr.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T06:50:09.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "testerr.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\testerr.aspx",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\testerr.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\testerr.aspx",
+              "RelativeToolTip": "Exceptions_Prj\\testerr.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T06:53:57.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Servererr.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\Servererr.aspx",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\Servererr.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\Servererr.aspx",
+              "RelativeToolTip": "Exceptions_Prj\\Servererr.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T06:49:48.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PageNotFound.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\PageNotFound.aspx",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\PageNotFound.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\PageNotFound.aspx",
+              "RelativeToolTip": "Exceptions_Prj\\PageNotFound.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T06:48:43.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PageNotFound.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\PageNotFound.aspx.cs",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\PageNotFound.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\PageNotFound.aspx.cs",
+              "RelativeToolTip": "Exceptions_Prj\\PageNotFound.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T06:49:19.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\Web.config",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\Web.config",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\Web.config",
+              "RelativeToolTip": "Exceptions_Prj\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-30T07:16:53.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "testerr.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\testerr.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\testerr.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\testerr.aspx.designer.cs",
+              "RelativeToolTip": "Exceptions_Prj\\testerr.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T09:21:51.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Servererr.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\Servererr.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\Servererr.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\Servererr.aspx.designer.cs",
+              "RelativeToolTip": "Exceptions_Prj\\Servererr.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T09:14:03.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "defaulterr.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\defaulterr.aspx.cs",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\defaulterr.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\defaulterr.aspx.cs",
+              "RelativeToolTip": "Exceptions_Prj\\defaulterr.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T06:52:52.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DbError.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\DbError.aspx",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\DbError.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\DbError.aspx",
+              "RelativeToolTip": "Exceptions_Prj\\DbError.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T06:39:25.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "err.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\err.aspx",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\err.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\err.aspx",
+              "RelativeToolTip": "Exceptions_Prj\\err.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T06:53:20.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "defaulterr.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\defaulterr.aspx",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\defaulterr.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\defaulterr.aspx",
+              "RelativeToolTip": "Exceptions_Prj\\defaulterr.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T06:52:23.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "apperr.html",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\apperr.html",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\apperr.html",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\apperr.html",
+              "RelativeToolTip": "Exceptions_Prj\\apperr.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-30T06:51:52.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Employee.xml",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\Employee.xml",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\Employee.xml",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\Employee.xml",
+              "RelativeToolTip": "Exceptions_Prj\\Employee.xml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-30T06:41:23.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DbError.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\DbError.aspx.cs",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\DbError.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\ExceptionProject\\Exceptions_Prj\\Exceptions_Prj\\DbError.aspx.cs",
+              "RelativeToolTip": "Exceptions_Prj\\DbError.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T06:39:58.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

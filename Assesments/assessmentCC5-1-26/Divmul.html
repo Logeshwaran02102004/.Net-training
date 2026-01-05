@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Calculator</title>
+    <style>
+        .grp {
+            margin-bottom: 15px;
+        }
+
+        label {
+            display: inline-block;
+            width: 120px; 
+        }
+
+        input {
+            width: 150px;
+            padding: 5px;
+        }
+
+        button {
+            margin-right: 10px;
+            padding: 5px 15px;
+            border-radius: 5px;
+        }
+
+        #result {
+            margin-top: 15px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Divide and Multiplication Calculator</h2>
+
+<div class="grp">
+    <label>First Number:</label>
+    <input type="number" id="num1">
+</div>
+
+<div class="grp">
+    <label>Second Number:</label>
+    <input type="number" id="num2">
+</div>
+
+<button onclick="multiply()">Multiply</button>
+<button onclick="divide()">Divide</button>
+
+<p id="result"></p>
+
+<script>
+    function multiply() {
+        var a = Number(document.getElementById("num1").value);
+        var b = Number(document.getElementById("num2").value);
+        document.getElementById("result").innerHTML = 
+            "The Result is: " + (a * b);
+    }
+
+    function divide() {
+        var a = Number(document.getElementById("num1").value);
+        var b = Number(document.getElementById("num2").value);
+        document.getElementById("result").innerHTML = 
+            "The Result is: " + (a / b);
+    }
+</script>
+
+</body>
+</html>

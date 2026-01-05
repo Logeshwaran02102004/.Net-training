@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\everyday code\\webappication1\\webapplicationdemo\\webapplicationdemo\\viewswitcher.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|solutionrelative:webapplicationdemo\\viewswitcher.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\webapplicationdemo\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|solutionrelative:webapplicationdemo\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\webapplicationdemo\\site.mobile.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|solutionrelative:webapplicationdemo\\site.mobile.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\webapplicationdemo\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|solutionrelative:webapplicationdemo\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\webapplicationdemo\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|solutionrelative:webapplicationdemo\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\webapplicationdemo\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|solutionrelative:webapplicationdemo\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\webapplicationdemo\\htmlpage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|solutionrelative:webapplicationdemo\\htmlpage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\webapplicationdemo\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|solutionrelative:webapplicationdemo\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\webapplicationdemo\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|solutionrelative:webapplicationdemo\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\webapplicationdemo\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|solutionrelative:webapplicationdemo\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\webapplicationdemo\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|solutionrelative:webapplicationdemo\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\webapplicationdemo\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|solutionrelative:webapplicationdemo\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\webapplicationdemo\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667943E8-25C0-4205-BC1E-734EB056C4B9}|Webapplicationdemo\\Webapplicationdemo.csproj|solutionrelative:webapplicationdemo\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewSwitcher.ascx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\ViewSwitcher.ascx.cs",
+              "RelativeDocumentMoniker": "Webapplicationdemo\\ViewSwitcher.ascx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\ViewSwitcher.ascx.cs",
+              "RelativeToolTip": "Webapplicationdemo\\ViewSwitcher.ascx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T05:41:54.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewSwitcher.ascx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\ViewSwitcher.ascx",
+              "RelativeDocumentMoniker": "Webapplicationdemo\\ViewSwitcher.ascx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\ViewSwitcher.ascx",
+              "RelativeToolTip": "Webapplicationdemo\\ViewSwitcher.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-12-30T05:41:31.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site.Mobile.Master.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\Site.Mobile.Master.cs",
+              "RelativeDocumentMoniker": "Webapplicationdemo\\Site.Mobile.Master.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\Site.Mobile.Master.cs",
+              "RelativeToolTip": "Webapplicationdemo\\Site.Mobile.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T05:39:49.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.Mobile.Master",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\Site.Mobile.Master",
+              "RelativeDocumentMoniker": "Webapplicationdemo\\Site.Mobile.Master",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\Site.Mobile.Master",
+              "RelativeToolTip": "Webapplicationdemo\\Site.Mobile.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T05:39:14.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "Webapplicationdemo\\Site1.Master.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\Site1.Master.cs",
+              "RelativeToolTip": "Webapplicationdemo\\Site1.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T05:38:02.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\Site1.Master",
+              "RelativeDocumentMoniker": "Webapplicationdemo\\Site1.Master",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\Site1.Master",
+              "RelativeToolTip": "Webapplicationdemo\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T05:36:38.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HtmlPage1.html",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\HtmlPage1.html",
+              "RelativeDocumentMoniker": "Webapplicationdemo\\HtmlPage1.html",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\HtmlPage1.html",
+              "RelativeToolTip": "Webapplicationdemo\\HtmlPage1.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-30T05:33:34.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Webapplicationdemo\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\Global.asax.cs",
+              "RelativeToolTip": "Webapplicationdemo\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T05:30:10.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\Default.aspx",
+              "RelativeDocumentMoniker": "Webapplicationdemo\\Default.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\Default.aspx",
+              "RelativeToolTip": "Webapplicationdemo\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T05:28:40.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contact.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\Contact.aspx.cs",
+              "RelativeDocumentMoniker": "Webapplicationdemo\\Contact.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\Contact.aspx.cs",
+              "RelativeToolTip": "Webapplicationdemo\\Contact.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T05:28:05.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\Contact.aspx",
+              "RelativeDocumentMoniker": "Webapplicationdemo\\Contact.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\Contact.aspx",
+              "RelativeToolTip": "Webapplicationdemo\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T05:27:16.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "About.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\About.aspx.cs",
+              "RelativeDocumentMoniker": "Webapplicationdemo\\About.aspx.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\About.aspx.cs",
+              "RelativeToolTip": "Webapplicationdemo\\About.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T05:19:44.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\About.aspx",
+              "RelativeDocumentMoniker": "Webapplicationdemo\\About.aspx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Everyday Code\\WebAppication1\\Webapplicationdemo\\Webapplicationdemo\\About.aspx",
+              "RelativeToolTip": "Webapplicationdemo\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T05:17:25.137Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

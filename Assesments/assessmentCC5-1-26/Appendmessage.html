@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Input Change </title>
+    <script src="jquery.js"></script>
+</head>
+<body>
+
+<input type="text" id="inp" placeholder="Type something...">
+
+<div id="mes"></div>
+
+<script>
+    $("#inp").on("change", function() {
+        $("#mes").append("<p>The input value has changed.</p>");
+    });
+</script>
+
+</body>
+</html>
