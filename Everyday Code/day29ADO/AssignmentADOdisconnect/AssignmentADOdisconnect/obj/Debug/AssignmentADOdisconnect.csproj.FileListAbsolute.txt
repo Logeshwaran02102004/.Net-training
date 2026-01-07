@@ -1,8 +1,0 @@
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day29ADO\AssignmentADOdisconnect\AssignmentADOdisconnect\bin\Debug\AssignmentADOdisconnect.exe.config
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day29ADO\AssignmentADOdisconnect\AssignmentADOdisconnect\bin\Debug\AssignmentADOdisconnect.exe
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day29ADO\AssignmentADOdisconnect\AssignmentADOdisconnect\bin\Debug\AssignmentADOdisconnect.pdb
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day29ADO\AssignmentADOdisconnect\AssignmentADOdisconnect\obj\Debug\AssignmentADOdisconnect.csproj.AssemblyReference.cache
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day29ADO\AssignmentADOdisconnect\AssignmentADOdisconnect\obj\Debug\AssignmentADOdisconnect.csproj.CoreCompileInputs.cache
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day29ADO\AssignmentADOdisconnect\AssignmentADOdisconnect\obj\Debug\AssignmentADOdisconnect.exe
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day29ADO\AssignmentADOdisconnect\AssignmentADOdisconnect\obj\Debug\AssignmentADOdisconnect.pdb
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day29ADO\AssignmentADOdisconnect\AssignmentADOdisconnect\obj\Debug\AssignmentADOdisconnect.exe.config

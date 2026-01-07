@@ -1,8 +1,0 @@
-C:\Users\logeshwaranv\Desktop\Assessment-17nov\Employeemanagementsystem\Employeemanagementsystem\bin\Debug\Employeemanagementsystem.exe.config
-C:\Users\logeshwaranv\Desktop\Assessment-17nov\Employeemanagementsystem\Employeemanagementsystem\bin\Debug\Employeemanagementsystem.exe
-C:\Users\logeshwaranv\Desktop\Assessment-17nov\Employeemanagementsystem\Employeemanagementsystem\bin\Debug\Employeemanagementsystem.pdb
-C:\Users\logeshwaranv\Desktop\Assessment-17nov\Employeemanagementsystem\Employeemanagementsystem\obj\Debug\Employeemanagementsystem.csproj.AssemblyReference.cache
-C:\Users\logeshwaranv\Desktop\Assessment-17nov\Employeemanagementsystem\Employeemanagementsystem\obj\Debug\Employeemanagementsystem.csproj.CoreCompileInputs.cache
-C:\Users\logeshwaranv\Desktop\Assessment-17nov\Employeemanagementsystem\Employeemanagementsystem\obj\Debug\Employeemanagementsystem.exe
-C:\Users\logeshwaranv\Desktop\Assessment-17nov\Employeemanagementsystem\Employeemanagementsystem\obj\Debug\Employeemanagementsystem.pdb
-C:\Users\logeshwaranv\Desktop\Assessment-17nov\Employeemanagementsystem\Employeemanagementsystem\obj\Debug\Employeemanagementsystem.exe.config

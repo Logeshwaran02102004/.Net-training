@@ -1,8 +1,0 @@
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day6\day6training\day6training\bin\Debug\day6training.exe.config
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day6\day6training\day6training\bin\Debug\day6training.exe
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day6\day6training\day6training\bin\Debug\day6training.pdb
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day6\day6training\day6training\obj\Debug\day6training.csproj.AssemblyReference.cache
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day6\day6training\day6training\obj\Debug\day6training.csproj.CoreCompileInputs.cache
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day6\day6training\day6training\obj\Debug\day6training.exe
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day6\day6training\day6training\obj\Debug\day6training.pdb
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day6\day6training\day6training\obj\Debug\day6training.exe.config

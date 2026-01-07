@@ -1,8 +1,0 @@
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day10\Day10trainning\Day10trainning\bin\Debug\Day10trainning.exe.config
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day10\Day10trainning\Day10trainning\bin\Debug\Day10trainning.exe
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day10\Day10trainning\Day10trainning\bin\Debug\Day10trainning.pdb
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day10\Day10trainning\Day10trainning\obj\Debug\Day10trainning.csproj.AssemblyReference.cache
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day10\Day10trainning\Day10trainning\obj\Debug\Day10trainning.csproj.CoreCompileInputs.cache
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day10\Day10trainning\Day10trainning\obj\Debug\Day10trainning.exe
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day10\Day10trainning\Day10trainning\obj\Debug\Day10trainning.pdb
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day10\Day10trainning\Day10trainning\obj\Debug\Day10trainning.exe.config

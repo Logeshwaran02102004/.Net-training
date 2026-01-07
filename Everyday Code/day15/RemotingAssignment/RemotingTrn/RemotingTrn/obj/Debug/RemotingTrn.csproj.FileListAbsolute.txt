@@ -1,6 +1,0 @@
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day15\RemotingAssignment\RemotingTrn\RemotingTrn\bin\Debug\RemotingTrn.dll
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day15\RemotingAssignment\RemotingTrn\RemotingTrn\bin\Debug\RemotingTrn.pdb
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day15\RemotingAssignment\RemotingTrn\RemotingTrn\obj\Debug\RemotingTrn.csproj.AssemblyReference.cache
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day15\RemotingAssignment\RemotingTrn\RemotingTrn\obj\Debug\RemotingTrn.csproj.CoreCompileInputs.cache
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day15\RemotingAssignment\RemotingTrn\RemotingTrn\obj\Debug\RemotingTrn.dll
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day15\RemotingAssignment\RemotingTrn\RemotingTrn\obj\Debug\RemotingTrn.pdb

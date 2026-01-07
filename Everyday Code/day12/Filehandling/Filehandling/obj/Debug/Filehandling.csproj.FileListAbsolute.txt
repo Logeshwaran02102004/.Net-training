@@ -1,8 +1,0 @@
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day12\Filehandling\Filehandling\bin\Debug\Filehandling.exe.config
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day12\Filehandling\Filehandling\bin\Debug\Filehandling.exe
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day12\Filehandling\Filehandling\bin\Debug\Filehandling.pdb
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day12\Filehandling\Filehandling\obj\Debug\Filehandling.csproj.AssemblyReference.cache
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day12\Filehandling\Filehandling\obj\Debug\Filehandling.csproj.CoreCompileInputs.cache
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day12\Filehandling\Filehandling\obj\Debug\Filehandling.exe
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day12\Filehandling\Filehandling\obj\Debug\Filehandling.pdb
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day12\Filehandling\Filehandling\obj\Debug\Filehandling.exe.config

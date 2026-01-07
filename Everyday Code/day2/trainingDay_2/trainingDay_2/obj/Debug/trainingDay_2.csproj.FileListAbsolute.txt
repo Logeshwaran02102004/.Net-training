@@ -1,8 +1,0 @@
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day2\trainingDay_2\trainingDay_2\bin\Debug\trainingDay_2.exe.config
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day2\trainingDay_2\trainingDay_2\bin\Debug\trainingDay_2.exe
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day2\trainingDay_2\trainingDay_2\bin\Debug\trainingDay_2.pdb
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day2\trainingDay_2\trainingDay_2\obj\Debug\trainingDay_2.csproj.AssemblyReference.cache
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day2\trainingDay_2\trainingDay_2\obj\Debug\trainingDay_2.csproj.CoreCompileInputs.cache
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day2\trainingDay_2\trainingDay_2\obj\Debug\trainingDay_2.exe
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day2\trainingDay_2\trainingDay_2\obj\Debug\trainingDay_2.pdb
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day2\trainingDay_2\trainingDay_2\obj\Debug\trainingDay_2.exe.config

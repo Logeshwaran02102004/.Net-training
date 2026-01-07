@@ -1,8 +1,0 @@
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day14\AssignmentDay14\AssignmentDay14\AssignmentDay14\bin\Debug\AssignmentDay14.exe.config
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day14\AssignmentDay14\AssignmentDay14\AssignmentDay14\bin\Debug\AssignmentDay14.exe
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day14\AssignmentDay14\AssignmentDay14\AssignmentDay14\bin\Debug\AssignmentDay14.pdb
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day14\AssignmentDay14\AssignmentDay14\AssignmentDay14\obj\Debug\AssignmentDay14.csproj.AssemblyReference.cache
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day14\AssignmentDay14\AssignmentDay14\AssignmentDay14\obj\Debug\AssignmentDay14.csproj.CoreCompileInputs.cache
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day14\AssignmentDay14\AssignmentDay14\AssignmentDay14\obj\Debug\AssignmentDay14.exe
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day14\AssignmentDay14\AssignmentDay14\AssignmentDay14\obj\Debug\AssignmentDay14.pdb
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day14\AssignmentDay14\AssignmentDay14\AssignmentDay14\obj\Debug\AssignmentDay14.exe.config

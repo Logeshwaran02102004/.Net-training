@@ -1,8 +1,0 @@
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day8\polymorphismdemo\polymorphismdemo\bin\Debug\polymorphismdemo.exe.config
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day8\polymorphismdemo\polymorphismdemo\bin\Debug\polymorphismdemo.exe
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day8\polymorphismdemo\polymorphismdemo\bin\Debug\polymorphismdemo.pdb
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day8\polymorphismdemo\polymorphismdemo\obj\Debug\polymorphismdemo.csproj.AssemblyReference.cache
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day8\polymorphismdemo\polymorphismdemo\obj\Debug\polymorphismdemo.csproj.CoreCompileInputs.cache
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day8\polymorphismdemo\polymorphismdemo\obj\Debug\polymorphismdemo.exe
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day8\polymorphismdemo\polymorphismdemo\obj\Debug\polymorphismdemo.pdb
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day8\polymorphismdemo\polymorphismdemo\obj\Debug\polymorphismdemo.exe.config

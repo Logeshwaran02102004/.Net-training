@@ -1,8 +1,0 @@
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day30LINK\AssignmentLinq\AssignmentLinq\bin\Debug\AssignmentLinq.exe.config
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day30LINK\AssignmentLinq\AssignmentLinq\bin\Debug\AssignmentLinq.exe
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day30LINK\AssignmentLinq\AssignmentLinq\bin\Debug\AssignmentLinq.pdb
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day30LINK\AssignmentLinq\AssignmentLinq\obj\Debug\AssignmentLinq.csproj.AssemblyReference.cache
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day30LINK\AssignmentLinq\AssignmentLinq\obj\Debug\AssignmentLinq.csproj.CoreCompileInputs.cache
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day30LINK\AssignmentLinq\AssignmentLinq\obj\Debug\AssignmentLinq.exe
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day30LINK\AssignmentLinq\AssignmentLinq\obj\Debug\AssignmentLinq.pdb
-C:\Users\logeshwaranv\Desktop\Infinite.nettraining\Csharp\day30LINK\AssignmentLinq\AssignmentLinq\obj\Debug\AssignmentLinq.exe.config
