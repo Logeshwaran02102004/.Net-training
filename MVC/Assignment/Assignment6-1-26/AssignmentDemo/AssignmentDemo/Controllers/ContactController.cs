@@ -11,10 +11,11 @@ namespace AssignmentDemo.Controllers
 {
     public class ContactController : Controller
     {
-        // GET: Contact
-        public ActionResult Index()
-        {
+       
+       
+        
             IContactRepository _contactRepository = null;
+        
 
 
         public ContactController()
@@ -22,20 +23,20 @@ namespace AssignmentDemo.Controllers
             _contactRepository = new ContactRepository();
         }
 
-        // Index
+      
         public async Task<ActionResult> Index()
         {
             var contacts = await _contactRepository.GetAllAsync();
             return View(contacts);
         }
 
-        // Creating
+ 
         public ActionResult Create()
         {
             return View();
         }
 
-        // Creating
+   
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<ActionResult> Create(Contact contact)
@@ -48,7 +49,7 @@ namespace AssignmentDemo.Controllers
             return View(contact);
         }
 
-        // Deleting
+    
         public async Task<ActionResult> Delete(long id)
         {
             await _contactRepository.DeleteAsync(id);

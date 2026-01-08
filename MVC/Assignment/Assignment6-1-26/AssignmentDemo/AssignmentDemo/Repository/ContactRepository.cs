@@ -4,36 +4,37 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Web;
+using System.Data.Entity;
 
 namespace AssignmentDemo.Repository
 {
     public class ContactRepository : IContactRepository
     {
-        ContactContext _contactContext;
+        ContactContext Contcontext;
 
         public ContactRepository()
         {
-            _contactContext = new ContactContext();
+            Contcontext = new ContactContext();
         }
 
         public async Task<List<Contact>> GetAllAsync()
         {
-            return await _contactContext.Contacts.ToListAsync();
+            return await Contcontext.Contacts.ToListAsync();
         }
 
         public async Task CreateAsync(Contact contact)
         {
-            _contactContext.Contacts.Add(contact);
-            await _contactContext.SaveChangesAsync();
+            Contcontext.Contacts.Add(contact);
+            await Contcontext.SaveChangesAsync();
         }
 
         public async Task DeleteAsync(long id)
         {
-            var contact = await _contactContext.Contacts.FindAsync(id);
+            var contact = await Contcontext.Contacts.FindAsync(id);
             if (contact != null)
             {
-                _contactContext.Contacts.Remove(contact);
-                await _contactContext.SaveChangesAsync();
+                Contcontext.Contacts.Remove(contact);
+                await Contcontext.SaveChangesAsync();
             }
         }
     }

@@ -1,26 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\Assignment6-1-26\\AssignmentDemo\\",
+  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\assignments\\assignment6-1-26\\assignmentdemo\\assignmentdemo\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assignment\\assignment6-1-26\\assignmentdemo\\assignmentdemo\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|solutionrelative:assignmentdemo\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\assignmentdemo\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|solutionrelative:assignmentdemo\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\assignments\\assignment6-1-26\\assignmentdemo\\assignmentdemo\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|solutionrelative:assignmentdemo\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assignment\\assignment6-1-26\\assignmentdemo\\assignmentdemo\\views\\contact\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|solutionrelative:assignmentdemo\\views\\contact\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\assignments\\assignment6-1-26\\assignmentdemo\\assignmentdemo\\repository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assignment\\assignment6-1-26\\assignmentdemo\\assignmentdemo\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|solutionrelative:assignmentdemo\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\assignmentdemo\\repository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|solutionrelative:assignmentdemo\\repository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\assignments\\assignment6-1-26\\assignmentdemo\\assignmentdemo\\models\\contactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assignment\\assignment6-1-26\\assignmentdemo\\assignmentdemo\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|solutionrelative:assignmentdemo\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\assignmentdemo\\models\\contactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|solutionrelative:assignmentdemo\\models\\contactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\assignments\\assignment6-1-26\\assignmentdemo\\assignmentdemo\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\assignmentdemo\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|solutionrelative:assignmentdemo\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assignment\\assignment6-1-26\\assignmentdemo\\assignmentdemo\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|solutionrelative:assignmentdemo\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assignment\\assignment6-1-26\\assignmentdemo\\assignmentdemo\\migrations\\202601080951215_inititalcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|solutionrelative:assignmentdemo\\migrations\\202601080951215_inititalcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\assignmentdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|solutionrelative:assignmentdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\assignmentdemo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A6F05085-60B6-4882-A6FB-CBA4A73E665E}|AssignmentDemo\\AssignmentDemo.csproj|solutionrelative:assignmentdemo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +66,158 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "AssignmentDemo\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "AssignmentDemo\\Controllers\\ContactController.cs",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Views\\Contact\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AssignmentDemo\\Views\\Contact\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Views\\Contact\\Delete.cshtml",
+              "RelativeToolTip": "AssignmentDemo\\Views\\Contact\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T04:12:58.716Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-08T09:56:08.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Views\\Contact\\Create.cshtml",
+              "RelativeDocumentMoniker": "AssignmentDemo\\Views\\Contact\\Create.cshtml",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Views\\Contact\\Create.cshtml",
+              "RelativeToolTip": "AssignmentDemo\\Views\\Contact\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-08T09:55:43.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "AssignmentDemo\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "AssignmentDemo\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-08T09:55:06.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ContactRepository.cs",
-              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Repository\\ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Repository\\ContactRepository.cs",
               "RelativeDocumentMoniker": "AssignmentDemo\\Repository\\ContactRepository.cs",
-              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Repository\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Repository\\ContactRepository.cs",
               "RelativeToolTip": "AssignmentDemo\\Repository\\ContactRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwBwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T04:10:48.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IContactRepository.cs",
-              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Repository\\IContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Repository\\IContactRepository.cs",
               "RelativeDocumentMoniker": "AssignmentDemo\\Repository\\IContactRepository.cs",
-              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Repository\\IContactRepository.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Repository\\IContactRepository.cs",
               "RelativeToolTip": "AssignmentDemo\\Repository\\IContactRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T04:10:16.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "AssignmentDemo\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "AssignmentDemo\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T04:12:58.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ContactContext.cs",
-              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Models\\ContactContext.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Models\\ContactContext.cs",
               "RelativeDocumentMoniker": "AssignmentDemo\\Models\\ContactContext.cs",
-              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Models\\ContactContext.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Models\\ContactContext.cs",
               "RelativeToolTip": "AssignmentDemo\\Models\\ContactContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T04:08:57.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Models\\Contact.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "AssignmentDemo\\Models\\Contact.cs",
-              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\Assignments\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Models\\Contact.cs",
               "RelativeToolTip": "AssignmentDemo\\Models\\Contact.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T04:08:18.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "AssignmentDemo\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "AssignmentDemo\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T09:51:01.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "202601080951215_InititalCreate.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Migrations\\202601080951215_InititalCreate.cs",
+              "RelativeDocumentMoniker": "AssignmentDemo\\Migrations\\202601080951215_InititalCreate.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Migrations\\202601080951215_InititalCreate.cs",
+              "RelativeToolTip": "AssignmentDemo\\Migrations\\202601080951215_InititalCreate.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T09:51:36.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AssignmentDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AssignmentDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T11:03:10.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Web.config",
+              "RelativeDocumentMoniker": "AssignmentDemo\\Web.config",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\Assignment6-1-26\\AssignmentDemo\\AssignmentDemo\\Web.config",
+              "RelativeToolTip": "AssignmentDemo\\Web.config",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-07T10:50:53.674Z",
               "EditorCaption": ""
             }
           ]

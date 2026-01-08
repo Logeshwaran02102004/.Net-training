@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\ValidationAssignment\\ValidationDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1357E5DD-066F-4795-83D2-FDFFEF053262}|ValidationDemo\\ValidationDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assignment\\validationassignment\\validationdemo\\validationdemo\\customvalidation\\passwordvalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1357E5DD-066F-4795-83D2-FDFFEF053262}|ValidationDemo\\ValidationDemo.csproj|solutionrelative:validationdemo\\customvalidation\\passwordvalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1357E5DD-066F-4795-83D2-FDFFEF053262}|ValidationDemo\\ValidationDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assignment\\validationassignment\\validationdemo\\validationdemo\\customvalidation\\gendervalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1357E5DD-066F-4795-83D2-FDFFEF053262}|ValidationDemo\\ValidationDemo.csproj|solutionrelative:validationdemo\\customvalidation\\gendervalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1357E5DD-066F-4795-83D2-FDFFEF053262}|ValidationDemo\\ValidationDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assignment\\validationassignment\\validationdemo\\validationdemo\\customvalidation\\birthdatevalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1357E5DD-066F-4795-83D2-FDFFEF053262}|ValidationDemo\\ValidationDemo.csproj|solutionrelative:validationdemo\\customvalidation\\birthdatevalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1357E5DD-066F-4795-83D2-FDFFEF053262}|ValidationDemo\\ValidationDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assignment\\validationassignment\\validationdemo\\validationdemo\\customvalidation\\dojvalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1357E5DD-066F-4795-83D2-FDFFEF053262}|ValidationDemo\\ValidationDemo.csproj|solutionrelative:validationdemo\\customvalidation\\dojvalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1357E5DD-066F-4795-83D2-FDFFEF053262}|ValidationDemo\\ValidationDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assignment\\validationassignment\\validationdemo\\validationdemo\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1357E5DD-066F-4795-83D2-FDFFEF053262}|ValidationDemo\\ValidationDemo.csproj|solutionrelative:validationdemo\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1357E5DD-066F-4795-83D2-FDFFEF053262}|ValidationDemo\\ValidationDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assignment\\validationassignment\\validationdemo\\validationdemo\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1357E5DD-066F-4795-83D2-FDFFEF053262}|ValidationDemo\\ValidationDemo.csproj|solutionrelative:validationdemo\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1357E5DD-066F-4795-83D2-FDFFEF053262}|ValidationDemo\\ValidationDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assignment\\validationassignment\\validationdemo\\validationdemo\\models\\checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1357E5DD-066F-4795-83D2-FDFFEF053262}|ValidationDemo\\ValidationDemo.csproj|solutionrelative:validationdemo\\models\\checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1357E5DD-066F-4795-83D2-FDFFEF053262}|ValidationDemo\\ValidationDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assignment\\validationassignment\\validationdemo\\validationdemo\\views\\jobapplication\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1357E5DD-066F-4795-83D2-FDFFEF053262}|ValidationDemo\\ValidationDemo.csproj|solutionrelative:validationdemo\\views\\jobapplication\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1357E5DD-066F-4795-83D2-FDFFEF053262}|ValidationDemo\\ValidationDemo.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assignment\\validationassignment\\validationdemo\\validationdemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1357E5DD-066F-4795-83D2-FDFFEF053262}|ValidationDemo\\ValidationDemo.csproj|solutionrelative:validationdemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PasswordValidate.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\ValidationAssignment\\ValidationDemo\\ValidationDemo\\CustomValidation\\PasswordValidate.cs",
+              "RelativeDocumentMoniker": "ValidationDemo\\CustomValidation\\PasswordValidate.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\ValidationAssignment\\ValidationDemo\\ValidationDemo\\CustomValidation\\PasswordValidate.cs",
+              "RelativeToolTip": "ValidationDemo\\CustomValidation\\PasswordValidate.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T10:10:01.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DOJValidate.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\ValidationAssignment\\ValidationDemo\\ValidationDemo\\CustomValidation\\DOJValidate.cs",
+              "RelativeDocumentMoniker": "ValidationDemo\\CustomValidation\\DOJValidate.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\ValidationAssignment\\ValidationDemo\\ValidationDemo\\CustomValidation\\DOJValidate.cs",
+              "RelativeToolTip": "ValidationDemo\\CustomValidation\\DOJValidate.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T10:11:02.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BirthDateValidate.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\ValidationAssignment\\ValidationDemo\\ValidationDemo\\CustomValidation\\BirthDateValidate.cs",
+              "RelativeDocumentMoniker": "ValidationDemo\\CustomValidation\\BirthDateValidate.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\ValidationAssignment\\ValidationDemo\\ValidationDemo\\CustomValidation\\BirthDateValidate.cs",
+              "RelativeToolTip": "ValidationDemo\\CustomValidation\\BirthDateValidate.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T09:29:31.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobApplication.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\ValidationAssignment\\ValidationDemo\\ValidationDemo\\Models\\JobApplication.cs",
+              "RelativeDocumentMoniker": "ValidationDemo\\Models\\JobApplication.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\ValidationAssignment\\ValidationDemo\\ValidationDemo\\Models\\JobApplication.cs",
+              "RelativeToolTip": "ValidationDemo\\Models\\JobApplication.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T09:27:38.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenderValidate.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\ValidationAssignment\\ValidationDemo\\ValidationDemo\\CustomValidation\\GenderValidate.cs",
+              "RelativeDocumentMoniker": "ValidationDemo\\CustomValidation\\GenderValidate.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\ValidationAssignment\\ValidationDemo\\ValidationDemo\\CustomValidation\\GenderValidate.cs",
+              "RelativeToolTip": "ValidationDemo\\CustomValidation\\GenderValidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T09:29:19.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\ValidationAssignment\\ValidationDemo\\ValidationDemo\\Controllers\\JobApplicationController.cs",
+              "RelativeDocumentMoniker": "ValidationDemo\\Controllers\\JobApplicationController.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\ValidationAssignment\\ValidationDemo\\ValidationDemo\\Controllers\\JobApplicationController.cs",
+              "RelativeToolTip": "ValidationDemo\\Controllers\\JobApplicationController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T09:31:38.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CheckBox.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\ValidationAssignment\\ValidationDemo\\ValidationDemo\\Models\\CheckBox.cs",
+              "RelativeDocumentMoniker": "ValidationDemo\\Models\\CheckBox.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\ValidationAssignment\\ValidationDemo\\ValidationDemo\\Models\\CheckBox.cs",
+              "RelativeToolTip": "ValidationDemo\\Models\\CheckBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T09:27:18.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\ValidationAssignment\\ValidationDemo\\ValidationDemo\\Views\\JobApplication\\Index.cshtml",
+              "RelativeDocumentMoniker": "ValidationDemo\\Views\\JobApplication\\Index.cshtml",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\ValidationAssignment\\ValidationDemo\\ValidationDemo\\Views\\JobApplication\\Index.cshtml",
+              "RelativeToolTip": "ValidationDemo\\Views\\JobApplication\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T09:32:10.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\ValidationAssignment\\ValidationDemo\\ValidationDemo\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ValidationDemo\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assignment\\ValidationAssignment\\ValidationDemo\\ValidationDemo\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ValidationDemo\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T09:55:22.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

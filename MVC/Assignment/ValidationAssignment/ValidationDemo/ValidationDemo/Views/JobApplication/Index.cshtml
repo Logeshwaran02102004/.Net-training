@@ -1,0 +1,86 @@
+﻿@model ValidationDemo.Models.JobApplication
+
+<h2 style="color:blue;text-align:center;">Job Application Form</h2>
+
+<h3>Status: @ViewBag.Result</h3>
+
+@using (Html.BeginForm())
+{
+    <table>
+        <tr>
+            <td>@Html.LabelFor(m => m.name)</td>
+            <td>
+                @Html.EditorFor(m => m.name)
+                @Html.ValidationMessageFor(m => m.name)
+            </td>
+        </tr>
+
+        <tr>
+            <td>@Html.LabelFor(m => m.experience)</td>
+            <td>
+                @Html.EditorFor(m => m.experience)
+                @Html.ValidationMessageFor(m => m.experience)
+            </td>
+        </tr>
+
+        <tr>
+            <td>@Html.LabelFor(m => m.birthdate)</td>
+            <td>
+                @Html.TextBoxFor(m => m.birthdate, new { type = "date" })
+                @Html.ValidationMessageFor(m => m.birthdate)
+            </td>
+        </tr>
+
+
+
+
+
+        <tr>
+            <td>@Html.LabelFor(m => m.DOJ)</td>
+            <td>
+                @Html.TextBoxFor(m => m.DOJ, new { type = "date" })
+                @Html.ValidationMessageFor(m => m.DOJ)
+            </td>
+        </tr>
+
+        <tr>
+            <td>@Html.LabelFor(m => m.email)</td>
+            <td>
+                @Html.EditorFor(m => m.email)
+                @Html.ValidationMessageFor(m => m.email)
+            </td>
+        </tr>
+
+
+
+
+
+        <tr>
+            <td>@Html.LabelFor(m => m.Password)</td>
+            <td>
+                @Html.PasswordFor(m => m.Password)
+                @Html.ValidationMessageFor(m => m.Password)
+            </td>
+        </tr>
+
+        <tr>
+            <td>@Html.LabelFor(m => m.Gender)</td>
+            <td>
+                @Html.DropDownListFor(m => m.Gender,
+                    new List<SelectListItem>
+                    {
+                        new SelectListItem{Text="Select Gender",Value=""},
+                        new SelectListItem{Text="Male",Value="M"},
+                        new SelectListItem{Text="Female",Value="F"}
+                    })
+                @Html.ValidationMessageFor(m => m.Gender)
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="2">
+                <button type="submit">Submit</button>
+            </td>
+        </tr>
+    </table>
+}
