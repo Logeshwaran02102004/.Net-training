@@ -1,0 +1,18 @@
+﻿@model CodeFirstapproachprj.Models.Movie
+@{
+    ViewBag.Title = "Delete";
+}
+
+<div class="card">
+    <h2>Delete Movie</h2>
+
+    <p>Are you sure you want to delete <strong>@Model.MovieName</strong> directed by <strong>@Model.DirectorName</strong>?</p>
+
+    @using (Html.BeginForm())
+    {
+        @Html.HiddenFor(m => m.MovieId)
+        <input type="submit" value="Delete" style="padding:8px 16px; background-color:#e74c3c; color:white; border:none; border-radius:4px; cursor:pointer;" />
+    }
+</div>
+
+

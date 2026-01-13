@@ -1,0 +1,30 @@
+﻿@model CodeFirstapproachprj.Models.Movie
+@{
+    ViewBag.Title = "Edit";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(m => m.MovieId)
+    <table>
+        <tr>
+            <td class="label">Movie Name:</td>
+            <td>@Html.TextBoxFor(m => m.MovieName)</td>
+        </tr>
+        <tr>
+            <td class="label">Director Name:</td>
+            <td>@Html.TextBoxFor(m => m.DirectorName)</td>
+        </tr>
+        <tr>
+            <td class="label">Release Date:</td>
+            <td>@Html.TextBoxFor(m => m.DateOfRelease, "{0:yyyy-MM-dd}", new { type = "date" })</td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align:center;">
+                <input type="submit" value="Update Movie" style="padding:8px 16px; background-color:#3498db; color:white; border:none; border-radius:4px; cursor:pointer;" />
+            </td>
+        </tr>
+    </table>
+}
+</div>
+

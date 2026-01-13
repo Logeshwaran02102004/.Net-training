@@ -1,0 +1,50 @@
+﻿@model IEnumerable<CodeFirstapproachprj.Models.Movie>
+@{
+    ViewBag.Title = "MoviesByDirector";
+}
+
+<div class="card">
+    <h2>Movies by Director</h2>
+
+    @using (Html.BeginForm())
+    {
+        <table>
+            <tr>
+                <td class="label">Enter Director Name:</td>
+                <td><input type="text" name="director" required style="width:100%; padding:5px;" /></td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align:center;">
+                    <input type="submit" value="Search" style="padding:8px 16px; background-color:#3498db; color:white; border:none; border-radius:4px; cursor:pointer;" />
+                </td>
+            </tr>
+        </table>
+    }
+
+    @if (Model != null)
+    {
+        if (!Model.Any())
+        {
+            <p>No movies found for this director.</p>
+        }
+        else
+        {
+            <table>
+                <tr style="background-color:#3498db; color:white;">
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Release Date</th>
+                </tr>
+                @foreach (var movie in Model)
+                {
+                    <tr>
+                        <td>@movie.MovieId</td>
+                        <td>@movie.MovieName</td>
+                        <td>@movie.DateOfRelease.ToShortDateString()</td>
+                    </tr>
+                }
+            </table>
+        }
+    }
+</div>
+

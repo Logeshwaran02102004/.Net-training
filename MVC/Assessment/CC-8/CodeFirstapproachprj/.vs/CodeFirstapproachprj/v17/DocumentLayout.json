@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assessment\\cc-8\\codefirstapproachprj\\codefirstapproachprj\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|solutionrelative:codefirstapproachprj\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assessment\\cc-8\\codefirstapproachprj\\codefirstapproachprj\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|solutionrelative:codefirstapproachprj\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assessment\\cc-8\\codefirstapproachprj\\codefirstapproachprj\\models\\moviesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|solutionrelative:codefirstapproachprj\\models\\moviesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assessment\\cc-8\\codefirstapproachprj\\codefirstapproachprj\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|solutionrelative:codefirstapproachprj\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assessment\\cc-8\\codefirstapproachprj\\codefirstapproachprj\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|solutionrelative:codefirstapproachprj\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assessment\\cc-8\\codefirstapproachprj\\codefirstapproachprj\\views\\code\\moviesbydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|solutionrelative:codefirstapproachprj\\views\\code\\moviesbydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assessment\\cc-8\\codefirstapproachprj\\codefirstapproachprj\\views\\code\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|solutionrelative:codefirstapproachprj\\views\\code\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assessment\\cc-8\\codefirstapproachprj\\codefirstapproachprj\\views\\code\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|solutionrelative:codefirstapproachprj\\views\\code\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assessment\\cc-8\\codefirstapproachprj\\codefirstapproachprj\\views\\code\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|solutionrelative:codefirstapproachprj\\views\\code\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assessment\\cc-8\\codefirstapproachprj\\codefirstapproachprj\\views\\code\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|solutionrelative:codefirstapproachprj\\views\\code\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assessment\\cc-8\\codefirstapproachprj\\codefirstapproachprj\\views\\code\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|solutionrelative:codefirstapproachprj\\views\\code\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assessment\\cc-8\\codefirstapproachprj\\codefirstapproachprj\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|solutionrelative:codefirstapproachprj\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assessment\\cc-8\\codefirstapproachprj\\codefirstapproachprj\\migrations\\202601130515018_codefirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|solutionrelative:codefirstapproachprj\\migrations\\202601130515018_codefirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assessment\\cc-8\\codefirstapproachprj\\codefirstapproachprj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{62D5ECC7-3212-4904-9904-F65D40B10B39}|CodeFirstapproachprj\\CodeFirstapproachprj.csproj|solutionrelative:codefirstapproachprj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Repository\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "CodeFirstapproachprj\\Repository\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Repository\\IMovieRepository.cs",
+              "RelativeToolTip": "CodeFirstapproachprj\\Repository\\IMovieRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:22:43.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Repository\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "CodeFirstapproachprj\\Repository\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Repository\\MovieRepository.cs",
+              "RelativeToolTip": "CodeFirstapproachprj\\Repository\\MovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:23:02.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Models\\MoviesDBContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstapproachprj\\Models\\MoviesDBContext.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Models\\MoviesDBContext.cs",
+              "RelativeToolTip": "CodeFirstapproachprj\\Models\\MoviesDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:54:36.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "CodeFirstapproachprj\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Models\\Movie.cs",
+              "RelativeToolTip": "CodeFirstapproachprj\\Models\\Movie.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:53:20.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CodeController.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Controllers\\CodeController.cs",
+              "RelativeDocumentMoniker": "CodeFirstapproachprj\\Controllers\\CodeController.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Controllers\\CodeController.cs",
+              "RelativeToolTip": "CodeFirstapproachprj\\Controllers\\CodeController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAEQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:34:22.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviesByDirector.cshtml",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Views\\Code\\MoviesByDirector.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstapproachprj\\Views\\Code\\MoviesByDirector.cshtml",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Views\\Code\\MoviesByDirector.cshtml",
+              "RelativeToolTip": "CodeFirstapproachprj\\Views\\Code\\MoviesByDirector.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:39:14.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoviesByYear.cshtml",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Views\\Code\\MoviesByYear.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstapproachprj\\Views\\Code\\MoviesByYear.cshtml",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Views\\Code\\MoviesByYear.cshtml",
+              "RelativeToolTip": "CodeFirstapproachprj\\Views\\Code\\MoviesByYear.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:39:02.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Views\\Code\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstapproachprj\\Views\\Code\\Index.cshtml",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Views\\Code\\Index.cshtml",
+              "RelativeToolTip": "CodeFirstapproachprj\\Views\\Code\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:38:28.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Views\\Code\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstapproachprj\\Views\\Code\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Views\\Code\\Edit.cshtml",
+              "RelativeToolTip": "CodeFirstapproachprj\\Views\\Code\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:38:37.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Views\\Code\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstapproachprj\\Views\\Code\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Views\\Code\\Delete.cshtml",
+              "RelativeToolTip": "CodeFirstapproachprj\\Views\\Code\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:38:48.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Views\\Code\\Create.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstapproachprj\\Views\\Code\\Create.cshtml",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Views\\Code\\Create.cshtml",
+              "RelativeToolTip": "CodeFirstapproachprj\\Views\\Code\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:38:03.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "CodeFirstapproachprj\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "CodeFirstapproachprj\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:14:19.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "202601130515018_CodeFirst.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Migrations\\202601130515018_CodeFirst.cs",
+              "RelativeDocumentMoniker": "CodeFirstapproachprj\\Migrations\\202601130515018_CodeFirst.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Migrations\\202601130515018_CodeFirst.cs",
+              "RelativeToolTip": "CodeFirstapproachprj\\Migrations\\202601130515018_CodeFirst.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:15:15.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Web.config",
+              "RelativeDocumentMoniker": "CodeFirstapproachprj\\Web.config",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\CodeFirstapproachprj\\CodeFirstapproachprj\\Web.config",
+              "RelativeToolTip": "CodeFirstapproachprj\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-13T04:56:30.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

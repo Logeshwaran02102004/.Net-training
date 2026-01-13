@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\MvcApplicationPrj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F24BE78-0039-455F-B3D9-97B5A986DA5C}|MvcApplicationPrj\\MvcApplicationPrj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assessment\\cc-8\\mvcapplicationprj\\mvcapplicationprj\\views\\code\\germancustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F24BE78-0039-455F-B3D9-97B5A986DA5C}|MvcApplicationPrj\\MvcApplicationPrj.csproj|solutionrelative:mvcapplicationprj\\views\\code\\germancustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F24BE78-0039-455F-B3D9-97B5A986DA5C}|MvcApplicationPrj\\MvcApplicationPrj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assessment\\cc-8\\mvcapplicationprj\\mvcapplicationprj\\views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F24BE78-0039-455F-B3D9-97B5A986DA5C}|MvcApplicationPrj\\MvcApplicationPrj.csproj|solutionrelative:mvcapplicationprj\\views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F24BE78-0039-455F-B3D9-97B5A986DA5C}|MvcApplicationPrj\\MvcApplicationPrj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assessment\\cc-8\\mvcapplicationprj\\mvcapplicationprj\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F24BE78-0039-455F-B3D9-97B5A986DA5C}|MvcApplicationPrj\\MvcApplicationPrj.csproj|solutionrelative:mvcapplicationprj\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F24BE78-0039-455F-B3D9-97B5A986DA5C}|MvcApplicationPrj\\MvcApplicationPrj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assessment\\cc-8\\mvcapplicationprj\\mvcapplicationprj\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F24BE78-0039-455F-B3D9-97B5A986DA5C}|MvcApplicationPrj\\MvcApplicationPrj.csproj|solutionrelative:mvcapplicationprj\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F24BE78-0039-455F-B3D9-97B5A986DA5C}|MvcApplicationPrj\\MvcApplicationPrj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assessment\\cc-8\\mvcapplicationprj\\mvcapplicationprj\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F24BE78-0039-455F-B3D9-97B5A986DA5C}|MvcApplicationPrj\\MvcApplicationPrj.csproj|solutionrelative:mvcapplicationprj\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F24BE78-0039-455F-B3D9-97B5A986DA5C}|MvcApplicationPrj\\MvcApplicationPrj.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\mvc\\assessment\\cc-8\\mvcapplicationprj\\mvcapplicationprj\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{7F24BE78-0039-455F-B3D9-97B5A986DA5C}|MvcApplicationPrj\\MvcApplicationPrj.csproj|solutionrelative:mvcapplicationprj\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\MvcApplicationPrj\\MvcApplicationPrj\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcApplicationPrj\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\MvcApplicationPrj\\MvcApplicationPrj\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcApplicationPrj\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:00:29.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerByOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\MvcApplicationPrj\\MvcApplicationPrj\\Views\\Code\\CustomerByOrder.cshtml",
+              "RelativeDocumentMoniker": "MvcApplicationPrj\\Views\\Code\\CustomerByOrder.cshtml",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\MvcApplicationPrj\\MvcApplicationPrj\\Views\\Code\\CustomerByOrder.cshtml",
+              "RelativeToolTip": "MvcApplicationPrj\\Views\\Code\\CustomerByOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T04:31:41.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GermanCustomers.cshtml",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\MvcApplicationPrj\\MvcApplicationPrj\\Views\\Code\\GermanCustomers.cshtml",
+              "RelativeDocumentMoniker": "MvcApplicationPrj\\Views\\Code\\GermanCustomers.cshtml",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\MvcApplicationPrj\\MvcApplicationPrj\\Views\\Code\\GermanCustomers.cshtml",
+              "RelativeToolTip": "MvcApplicationPrj\\Views\\Code\\GermanCustomers.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T04:31:26.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\MvcApplicationPrj\\MvcApplicationPrj\\Models\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "MvcApplicationPrj\\Models\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\MvcApplicationPrj\\MvcApplicationPrj\\Models\\Model1.Context.cs",
+              "RelativeToolTip": "MvcApplicationPrj\\Models\\Model1.Context.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:28:08.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CodeController.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\MvcApplicationPrj\\MvcApplicationPrj\\Controllers\\CodeController.cs",
+              "RelativeDocumentMoniker": "MvcApplicationPrj\\Controllers\\CodeController.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\MvcApplicationPrj\\MvcApplicationPrj\\Controllers\\CodeController.cs",
+              "RelativeToolTip": "MvcApplicationPrj\\Controllers\\CodeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwBwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:17.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\MvcApplicationPrj\\MvcApplicationPrj\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "MvcApplicationPrj\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\MVC\\Assessment\\CC-8\\MvcApplicationPrj\\MvcApplicationPrj\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "MvcApplicationPrj\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-01-13T04:25:07.138Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

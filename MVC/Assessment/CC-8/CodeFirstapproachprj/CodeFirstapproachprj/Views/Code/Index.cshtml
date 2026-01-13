@@ -1,0 +1,41 @@
+﻿@model IEnumerable<CodeFirstapproachprj.Models.Movie>
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="card">
+    <h2>All Movies</h2>
+
+    <p>@Html.ActionLink("Add New Movie", "Create", null, new { @class = "btn" })</p>
+
+    @if (!Model.Any())
+    {
+        <p>No movies available.</p>
+    }
+    else
+    {
+        <table>
+            <tr style="background-color:#3498db; color:white;">
+                <th>ID</th>
+                <th>Name</th>
+                <th>Director</th>
+                <th>Release Date</th>
+                <th>Actions</th>
+            </tr>
+            @foreach (var movie in Model)
+            {
+                <tr>
+                    <td>@movie.MovieId</td>
+                    <td>@movie.MovieName</td>
+                    <td>@movie.DirectorName</td>
+                    <td>@movie.DateOfRelease.ToShortDateString()</td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = movie.MovieId }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = movie.MovieId })
+                    </td>
+                </tr>
+            }
+        </table>
+    }
+</div>
+
