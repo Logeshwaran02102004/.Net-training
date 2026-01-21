@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\WebApi\\Assessment\\OrdersWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95758A41-D016-4390-A476-074FC7800CC3}|OrdersWebApi\\OrdersWebApi.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\webapi\\assessment\\orderswebapi\\orderswebapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95758A41-D016-4390-A476-074FC7800CC3}|OrdersWebApi\\OrdersWebApi.csproj|solutionrelative:orderswebapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95758A41-D016-4390-A476-074FC7800CC3}|OrdersWebApi\\OrdersWebApi.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\webapi\\assessment\\orderswebapi\\orderswebapi\\ordersmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{95758A41-D016-4390-A476-074FC7800CC3}|OrdersWebApi\\OrdersWebApi.csproj|solutionrelative:orderswebapi\\ordersmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95758A41-D016-4390-A476-074FC7800CC3}|OrdersWebApi\\OrdersWebApi.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\webapi\\assessment\\orderswebapi\\orderswebapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95758A41-D016-4390-A476-074FC7800CC3}|OrdersWebApi\\OrdersWebApi.csproj|solutionrelative:orderswebapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|OrdersWebApi||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95758A41-D016-4390-A476-074FC7800CC3}|OrdersWebApi\\OrdersWebApi.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\webapi\\assessment\\orderswebapi\\orderswebapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{95758A41-D016-4390-A476-074FC7800CC3}|OrdersWebApi\\OrdersWebApi.csproj|solutionrelative:orderswebapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95758A41-D016-4390-A476-074FC7800CC3}|OrdersWebApi\\OrdersWebApi.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\webapi\\assessment\\orderswebapi\\orderswebapi\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{95758A41-D016-4390-A476-074FC7800CC3}|OrdersWebApi\\OrdersWebApi.csproj|solutionrelative:orderswebapi\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95758A41-D016-4390-A476-074FC7800CC3}|OrdersWebApi\\OrdersWebApi.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\webapi\\assessment\\orderswebapi\\orderswebapi\\ordersmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95758A41-D016-4390-A476-074FC7800CC3}|OrdersWebApi\\OrdersWebApi.csproj|solutionrelative:orderswebapi\\ordersmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95758A41-D016-4390-A476-074FC7800CC3}|OrdersWebApi\\OrdersWebApi.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\webapi\\assessment\\orderswebapi\\orderswebapi\\ordersmodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95758A41-D016-4390-A476-074FC7800CC3}|OrdersWebApi\\OrdersWebApi.csproj|solutionrelative:orderswebapi\\ordersmodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95758A41-D016-4390-A476-074FC7800CC3}|OrdersWebApi\\OrdersWebApi.csproj|c:\\users\\logeshwaranv\\desktop\\dotnettraining\\webapi\\assessment\\orderswebapi\\orderswebapi\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|909d16b3-c8e8-43d1-a2b8-26ea0d4b6b57"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\WebApi\\Assessment\\OrdersWebApi\\OrdersWebApi\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "OrdersWebApi\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\WebApi\\Assessment\\OrdersWebApi\\OrdersWebApi\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "OrdersWebApi\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:47:04.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\WebApi\\Assessment\\OrdersWebApi\\OrdersWebApi\\packages.config",
+              "RelativeDocumentMoniker": "OrdersWebApi\\packages.config",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\WebApi\\Assessment\\OrdersWebApi\\OrdersWebApi\\packages.config",
+              "RelativeToolTip": "OrdersWebApi\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-21T06:13:33.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\WebApi\\Assessment\\OrdersWebApi\\OrdersWebApi\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrdersWebApi\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\WebApi\\Assessment\\OrdersWebApi\\OrdersWebApi\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrdersWebApi\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:06:27.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdersModel.Context.cs",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\WebApi\\Assessment\\OrdersWebApi\\OrdersWebApi\\OrdersModel.Context.cs",
+              "RelativeDocumentMoniker": "OrdersWebApi\\OrdersModel.Context.cs",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\WebApi\\Assessment\\OrdersWebApi\\OrdersWebApi\\OrdersModel.Context.cs",
+              "RelativeToolTip": "OrdersWebApi\\OrdersModel.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:01:56.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\WebApi\\Assessment\\OrdersWebApi\\OrdersWebApi\\OrdersModel.edmx",
+              "RelativeDocumentMoniker": "OrdersWebApi\\OrdersModel.edmx",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\WebApi\\Assessment\\OrdersWebApi\\OrdersWebApi\\OrdersModel.edmx [Diagram1]",
+              "RelativeToolTip": "OrdersWebApi\\OrdersModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-01-21T06:01:04.366Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\WebApi\\Assessment\\OrdersWebApi\\OrdersWebApi\\Web.config",
+              "RelativeDocumentMoniker": "OrdersWebApi\\Web.config",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\WebApi\\Assessment\\OrdersWebApi\\OrdersWebApi\\Web.config",
+              "RelativeToolTip": "OrdersWebApi\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-21T06:13:35.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersWebApi",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\WebApi\\Assessment\\OrdersWebApi\\OrdersWebApi\\OrdersWebApi.csproj",
+              "RelativeDocumentMoniker": "OrdersWebApi\\OrdersWebApi.csproj",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\WebApi\\Assessment\\OrdersWebApi\\OrdersWebApi\\OrdersWebApi.csproj*",
+              "RelativeToolTip": "OrdersWebApi\\OrdersWebApi.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-21T06:22:23.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdersModel.Context.tt",
+              "DocumentMoniker": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\WebApi\\Assessment\\OrdersWebApi\\OrdersWebApi\\OrdersModel.Context.tt",
+              "RelativeDocumentMoniker": "OrdersWebApi\\OrdersModel.Context.tt",
+              "ToolTip": "C:\\Users\\logeshwaranv\\Desktop\\DotNetTraining\\WebApi\\Assessment\\OrdersWebApi\\OrdersWebApi\\OrdersModel.Context.tt",
+              "RelativeToolTip": "OrdersWebApi\\OrdersModel.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-21T06:01:54.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
